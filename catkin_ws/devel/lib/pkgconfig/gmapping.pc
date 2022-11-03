@@ -1,0 +1,8 @@
+prefix=/home/ludo/catkin_ws/devel
+
+Name: gmapping
+Description: Description of gmapping
+Version: 1.4.2
+Cflags: -I/home/ludo/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs sensor_msgs message_runtime std_msgs

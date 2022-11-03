@@ -1,0 +1,8 @@
+prefix=/home/ludo/catkin_ws/install
+
+Name: my_msgs
+Description: Description of my_msgs
+Version: 1.4.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs sensor_msgs message_runtime std_msgs

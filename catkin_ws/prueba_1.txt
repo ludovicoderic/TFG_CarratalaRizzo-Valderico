@@ -1,0 +1,993 @@
+[0m[ INFO] [1615546348.327851800, 5428.488000000]: Laser is mounted upwards.[0m
+ -maxUrange 3 -maxUrange 3.49 -sigma     0.05 -kernelSize 1 -lstep 0.05 -lobsGain 3 -astep 0.05
+ -srr 0.1 -srt 0.2 -str 0.1 -stt 0.2
+ -linearUpdate 1 -angularUpdate 0.2 -resampleThreshold 0.5
+ -xmin -10 -xmax 10 -ymin -10 -ymax 10 -delta 0.05 -particles 100
+[0m[ INFO] [1615546348.342185700, 5428.492000000]: Initialization complete[0m
+update frame 0
+update ld=0 ad=0
+m_count 0
+Registering First Scan
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+2-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 3
+update ld=0.0040588 ad=0.0629698
+m_count 1
+Average Scan Matching Score=142.166
+neff= 100
+update frame 4
+update ld=0.00804961 ad=0.127877
+m_count 2
+Average Scan Matching Score=144.962
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.95741 , -0.549193 , -1.64734]
+2-  n->pose (x,y,z): [-1.96303 , -0.546655 , -1.77205]
+3-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+4-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 5
+update ld=0.015251 ad=0.239189
+m_count 3
+Average Scan Matching Score=144.126
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.94223 , -0.557939 , -1.40872]
+2-  n->pose (x,y,z): [-1.95661 , -0.550318 , -1.64825]
+3-  n->pose (x,y,z): [-1.96369 , -0.548204 , -1.77266]
+4-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+5-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 6
+update ld=0.0198757 ad=0.310654
+m_count 4
+Average Scan Matching Score=145.255
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.92486 , -0.555737 , -1.09609]
+2-  n->pose (x,y,z): [-1.94288 , -0.561941 , -1.40833]
+3-  n->pose (x,y,z): [-1.95714 , -0.551542 , -1.64744]
+4-  n->pose (x,y,z): [-1.96368 , -0.548345 , -1.77295]
+5-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+6-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 7
+update ld=0.0153972 ad=0.242055
+m_count 5
+Average Scan Matching Score=141.242
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.91046 , -0.547391 , -0.852912]
+2-  n->pose (x,y,z): [-1.92486 , -0.555737 , -1.09609]
+3-  n->pose (x,y,z): [-1.94288 , -0.561941 , -1.40833]
+4-  n->pose (x,y,z): [-1.95714 , -0.551542 , -1.64744]
+5-  n->pose (x,y,z): [-1.96368 , -0.548345 , -1.77295]
+6-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+7-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 8
+update ld=0.0172715 ad=0.271822
+m_count 6
+Average Scan Matching Score=143.12
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.89845 , -0.530574 , -0.582957]
+2-  n->pose (x,y,z): [-1.91105 , -0.548375 , -0.853191]
+3-  n->pose (x,y,z): [-1.92724 , -0.561244 , -1.09486]
+4-  n->pose (x,y,z): [-1.94395 , -0.566999 , -1.40907]
+5-  n->pose (x,y,z): [-1.95945 , -0.558893 , -1.64494]
+6-  n->pose (x,y,z): [-1.96419 , -0.542817 , -1.77484]
+7-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+8-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 9
+update ld=0.0184736 ad=0.291516
+m_count 7
+Average Scan Matching Score=140.148
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.8857 , -0.521119 , -0.29008]
+2-  n->pose (x,y,z): [-1.89815 , -0.541945 , -0.584141]
+3-  n->pose (x,y,z): [-1.91046 , -0.547391 , -0.852912]
+4-  n->pose (x,y,z): [-1.92486 , -0.555737 , -1.09609]
+5-  n->pose (x,y,z): [-1.94288 , -0.561941 , -1.40833]
+6-  n->pose (x,y,z): [-1.95714 , -0.551542 , -1.64744]
+7-  n->pose (x,y,z): [-1.96368 , -0.548345 , -1.77295]
+8-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+9-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 10
+update ld=0.0147787 ad=0.23098
+m_count 8
+Average Scan Matching Score=136.309
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.88482 , -0.492637 , -0.0595395]
+2-  n->pose (x,y,z): [-1.88627 , -0.515686 , -0.291921]
+3-  n->pose (x,y,z): [-1.89737 , -0.536921 , -0.583477]
+4-  n->pose (x,y,z): [-1.91101 , -0.545817 , -0.853391]
+5-  n->pose (x,y,z): [-1.92525 , -0.555282 , -1.09772]
+6-  n->pose (x,y,z): [-1.94257 , -0.559057 , -1.40871]
+7-  n->pose (x,y,z): [-1.95586 , -0.549765 , -1.6486]
+8-  n->pose (x,y,z): [-1.96394 , -0.549318 , -1.77359]
+9-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+10-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 11
+update ld=0.0181611 ad=0.284864
+m_count 9
+Average Scan Matching Score=136.833
+neff= 99.9955
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+2-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+3-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+4-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+5-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+6-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+7-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+8-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+9-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+10-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+11-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 12
+update ld=0.0248131 ad=0.392641
+m_count 10
+Average Scan Matching Score=135.355
+neff= 99.9955
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+2-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+3-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+4-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+5-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+6-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+7-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+8-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+9-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+10-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+11-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+12-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 13
+update ld=0.137155 ad=0.647246
+m_count 11
+Scan Matching Failed, using odometry. Likelihood=-0.577134
+lp:-1.89299 -0.46464 0.617157
+op:-1.98376 -0.567463 1.2644
+Scan Matching Failed, using odometry. Likelihood=-0.552694
+lp:-1.89299 -0.46464 0.617157
+op:-1.98376 -0.567463 1.2644
+Average Scan Matching Score=137.804
+neff= 94.6162
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.98458 , -0.553602 , 1.26653]
+2-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+3-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+4-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+5-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+6-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+7-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+8-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+9-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+10-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+11-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+12-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+13-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 14
+update ld=0.164151 ad=0.018234
+m_count 12
+Average Scan Matching Score=140
+neff= 94.6085
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.0374 , -0.717755 , 1.24701]
+2-  n->pose (x,y,z): [-1.98458 , -0.553602 , 1.26653]
+3-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+4-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+5-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+6-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+7-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+8-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+9-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+10-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+11-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+12-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+13-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+14-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 15
+update ld=0.119304 ad=0.00491547
+m_count 13
+Average Scan Matching Score=139.073
+neff= 94.6079
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.07556 , -0.831843 , 1.24136]
+2-  n->pose (x,y,z): [-2.0374 , -0.717755 , 1.24701]
+3-  n->pose (x,y,z): [-1.98458 , -0.553602 , 1.26653]
+4-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+5-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+6-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+7-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+8-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+9-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+10-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+11-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+12-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+13-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+14-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+15-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 16
+update ld=0.148935 ad=0.00214378
+m_count 14
+Average Scan Matching Score=135.348
+neff= 94.6318
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.12258 , -0.968594 , 1.24448]
+2-  n->pose (x,y,z): [-2.07528 , -0.821889 , 1.23992]
+3-  n->pose (x,y,z): [-2.03842 , -0.714953 , 1.24667]
+4-  n->pose (x,y,z): [-1.98535 , -0.551524 , 1.26658]
+5-  n->pose (x,y,z): [-1.89385 , -0.460304 , 0.61535]
+6-  n->pose (x,y,z): [-1.88297 , -0.47935 , 0.222395]
+7-  n->pose (x,y,z): [-1.8847 , -0.487054 , -0.0600935]
+8-  n->pose (x,y,z): [-1.88535 , -0.513102 , -0.290693]
+9-  n->pose (x,y,z): [-1.89819 , -0.530629 , -0.582743]
+10-  n->pose (x,y,z): [-1.91143 , -0.539665 , -0.854678]
+11-  n->pose (x,y,z): [-1.92597 , -0.551419 , -1.09741]
+12-  n->pose (x,y,z): [-1.94347 , -0.553015 , -1.40794]
+13-  n->pose (x,y,z): [-1.95842 , -0.559553 , -1.64579]
+14-  n->pose (x,y,z): [-1.96421 , -0.543199 , -1.7747]
+15-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+16-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 17
+update ld=0.118645 ad=0.00793757
+m_count 15
+Average Scan Matching Score=134.316
+neff= 94.6375
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.16369 , -1.0687 , 1.23672]
+2-  n->pose (x,y,z): [-2.12258 , -0.968594 , 1.24448]
+3-  n->pose (x,y,z): [-2.07528 , -0.821889 , 1.23992]
+4-  n->pose (x,y,z): [-2.03842 , -0.714953 , 1.24667]
+5-  n->pose (x,y,z): [-1.98535 , -0.551524 , 1.26658]
+6-  n->pose (x,y,z): [-1.89385 , -0.460304 , 0.61535]
+7-  n->pose (x,y,z): [-1.88297 , -0.47935 , 0.222395]
+8-  n->pose (x,y,z): [-1.8847 , -0.487054 , -0.0600935]
+9-  n->pose (x,y,z): [-1.88535 , -0.513102 , -0.290693]
+10-  n->pose (x,y,z): [-1.89819 , -0.530629 , -0.582743]
+11-  n->pose (x,y,z): [-1.91143 , -0.539665 , -0.854678]
+12-  n->pose (x,y,z): [-1.92597 , -0.551419 , -1.09741]
+13-  n->pose (x,y,z): [-1.94347 , -0.553015 , -1.40794]
+14-  n->pose (x,y,z): [-1.95842 , -0.559553 , -1.64579]
+15-  n->pose (x,y,z): [-1.96421 , -0.543199 , -1.7747]
+16-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+17-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 18
+update ld=0.119071 ad=0.00558679
+m_count 16
+Average Scan Matching Score=141.768
+neff= 94.6462
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.20117 , -1.18513 , 1.2396]
+2-  n->pose (x,y,z): [-2.16216 , -1.07954 , 1.23349]
+3-  n->pose (x,y,z): [-2.12182 , -0.972414 , 1.2433]
+4-  n->pose (x,y,z): [-2.07556 , -0.831843 , 1.24136]
+5-  n->pose (x,y,z): [-2.0374 , -0.717755 , 1.24701]
+6-  n->pose (x,y,z): [-1.98458 , -0.553602 , 1.26653]
+7-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+8-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+9-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+10-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+11-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+12-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+13-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+14-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+15-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+16-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+17-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+18-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 19
+update ld=0.139342 ad=0.00495743
+m_count 17
+Average Scan Matching Score=144.068
+neff= 94.646
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.24925 , -1.31762 , 1.2291]
+2-  n->pose (x,y,z): [-2.20117 , -1.18513 , 1.2396]
+3-  n->pose (x,y,z): [-2.16216 , -1.07954 , 1.23349]
+4-  n->pose (x,y,z): [-2.12182 , -0.972414 , 1.2433]
+5-  n->pose (x,y,z): [-2.07556 , -0.831843 , 1.24136]
+6-  n->pose (x,y,z): [-2.0374 , -0.717755 , 1.24701]
+7-  n->pose (x,y,z): [-1.98458 , -0.553602 , 1.26653]
+8-  n->pose (x,y,z): [-1.89222 , -0.465356 , 0.614409]
+9-  n->pose (x,y,z): [-1.88287 , -0.487875 , 0.221635]
+10-  n->pose (x,y,z): [-1.88499 , -0.492513 , -0.0598635]
+11-  n->pose (x,y,z): [-1.88605 , -0.517443 , -0.291999]
+12-  n->pose (x,y,z): [-1.89828 , -0.540478 , -0.584084]
+13-  n->pose (x,y,z): [-1.90979 , -0.546014 , -0.85244]
+14-  n->pose (x,y,z): [-1.92366 , -0.55333 , -1.09674]
+15-  n->pose (x,y,z): [-1.94235 , -0.561949 , -1.40937]
+16-  n->pose (x,y,z): [-1.95661 , -0.550511 , -1.64746]
+17-  n->pose (x,y,z): [-1.96363 , -0.547182 , -1.77269]
+18-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+19-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 20
+update ld=0.148946 ad=0.002593
+m_count 18
+Average Scan Matching Score=148.988
+neff= 94.6452
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.30117 , -1.42146 , 1.22271]
+2-  n->pose (x,y,z): [-2.24914 , -1.32004 , 1.22939]
+3-  n->pose (x,y,z): [-2.20121 , -1.18494 , 1.23956]
+4-  n->pose (x,y,z): [-2.16233 , -1.08068 , 1.23274]
+5-  n->pose (x,y,z): [-2.12234 , -0.975171 , 1.24114]
+6-  n->pose (x,y,z): [-2.07339 , -0.826999 , 1.23946]
+7-  n->pose (x,y,z): [-2.03534 , -0.719005 , 1.24448]
+8-  n->pose (x,y,z): [-1.98385 , -0.552001 , 1.26591]
+9-  n->pose (x,y,z): [-1.89234 , -0.466538 , 0.613718]
+10-  n->pose (x,y,z): [-1.88287 , -0.508608 , 0.220915]
+11-  n->pose (x,y,z): [-1.88453 , -0.49281 , -0.0608397]
+12-  n->pose (x,y,z): [-1.88483 , -0.513561 , -0.293361]
+13-  n->pose (x,y,z): [-1.89766 , -0.532886 , -0.582132]
+14-  n->pose (x,y,z): [-1.9092 , -0.542817 , -0.854503]
+15-  n->pose (x,y,z): [-1.92401 , -0.551719 , -1.09741]
+16-  n->pose (x,y,z): [-1.94192 , -0.556838 , -1.40862]
+17-  n->pose (x,y,z): [-1.95594 , -0.549211 , -1.64822]
+18-  n->pose (x,y,z): [-1.96352 , -0.54748 , -1.7728]
+19-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+20-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 21
+update ld=0.200549 ad=0.00433438
+m_count 19
+Average Scan Matching Score=150.668
+neff= 94.6507
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.36929 , -1.66217 , 1.21678]
+2-  n->pose (x,y,z): [-2.30117 , -1.42146 , 1.22271]
+3-  n->pose (x,y,z): [-2.24914 , -1.32004 , 1.22939]
+4-  n->pose (x,y,z): [-2.20121 , -1.18494 , 1.23956]
+5-  n->pose (x,y,z): [-2.16233 , -1.08068 , 1.23274]
+6-  n->pose (x,y,z): [-2.12234 , -0.975171 , 1.24114]
+7-  n->pose (x,y,z): [-2.07339 , -0.826999 , 1.23946]
+8-  n->pose (x,y,z): [-2.03534 , -0.719005 , 1.24448]
+9-  n->pose (x,y,z): [-1.98385 , -0.552001 , 1.26591]
+10-  n->pose (x,y,z): [-1.89234 , -0.466538 , 0.613718]
+11-  n->pose (x,y,z): [-1.88287 , -0.508608 , 0.220915]
+12-  n->pose (x,y,z): [-1.88453 , -0.49281 , -0.0608397]
+13-  n->pose (x,y,z): [-1.88483 , -0.513561 , -0.293361]
+14-  n->pose (x,y,z): [-1.89766 , -0.532886 , -0.582132]
+15-  n->pose (x,y,z): [-1.9092 , -0.542817 , -0.854503]
+16-  n->pose (x,y,z): [-1.92401 , -0.551719 , -1.09741]
+17-  n->pose (x,y,z): [-1.94192 , -0.556838 , -1.40862]
+18-  n->pose (x,y,z): [-1.95594 , -0.549211 , -1.64822]
+19-  n->pose (x,y,z): [-1.96352 , -0.54748 , -1.7728]
+20-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+21-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 22
+update ld=0.303114 ad=0.611196
+m_count 20
+Scan Matching Failed, using odometry. Likelihood=-221.128
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-221.083
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-227.502
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-214.596
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-915.753
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-962.391
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-228.093
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-214.561
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-227.74
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Scan Matching Failed, using odometry. Likelihood=-221.127
+lp:-2.36347 -1.66234 1.21799
+op:-2.47472 -1.9443 1.82918
+Average Scan Matching Score=150.992
+neff= 82.4508
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.48602 , -1.92836 , 1.81438]
+2-  n->pose (x,y,z): [-2.37055 , -1.65532 , 1.21377]
+3-  n->pose (x,y,z): [-2.2997 , -1.45992 , 1.21518]
+4-  n->pose (x,y,z): [-2.24549 , -1.31819 , 1.2294]
+5-  n->pose (x,y,z): [-2.19578 , -1.18481 , 1.23773]
+6-  n->pose (x,y,z): [-2.16074 , -1.07739 , 1.23376]
+7-  n->pose (x,y,z): [-2.12034 , -0.969023 , 1.24542]
+8-  n->pose (x,y,z): [-2.07238 , -0.832398 , 1.24119]
+9-  n->pose (x,y,z): [-2.0361 , -0.714052 , 1.24862]
+10-  n->pose (x,y,z): [-1.98368 , -0.563372 , 1.26408]
+11-  n->pose (x,y,z): [-1.89082 , -0.45796 , 0.617059]
+12-  n->pose (x,y,z): [-1.88287 , -0.482827 , 0.224112]
+13-  n->pose (x,y,z): [-1.88388 , -0.489701 , -0.0591155]
+14-  n->pose (x,y,z): [-1.88583 , -0.512734 , -0.291759]
+15-  n->pose (x,y,z): [-1.89716 , -0.530648 , -0.582323]
+16-  n->pose (x,y,z): [-1.90861 , -0.540041 , -0.852242]
+17-  n->pose (x,y,z): [-1.92392 , -0.550289 , -1.09652]
+18-  n->pose (x,y,z): [-1.94151 , -0.556419 , -1.40752]
+19-  n->pose (x,y,z): [-1.95619 , -0.54887 , -1.64694]
+20-  n->pose (x,y,z): [-1.96248 , -0.546611 , -1.77192]
+21-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+22-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 23
+update ld=0.208796 ad=1.35148
+m_count 21
+Scan Matching Failed, using odometry. Likelihood=-67.7861
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-114.909
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-267.873
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-67.84
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-816.096
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-683.667
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-67.8148
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Scan Matching Failed, using odometry. Likelihood=-929.309
+lp:-2.47472 -1.9443 1.82918
+op:-2.27584 -2.00789 -3.10253
+Average Scan Matching Score=151.157
+neff= 62.9229
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.29048 , -1.99451 , 3.17773]
+2-  n->pose (x,y,z): [-2.4886 , -1.91976 , 1.8232]
+3-  n->pose (x,y,z): [-2.37023 , -1.65727 , 1.21239]
+4-  n->pose (x,y,z): [-2.30112 , -1.44608 , 1.22431]
+5-  n->pose (x,y,z): [-2.24878 , -1.31764 , 1.22864]
+6-  n->pose (x,y,z): [-2.19559 , -1.18436 , 1.23778]
+7-  n->pose (x,y,z): [-2.16188 , -1.0787 , 1.23267]
+8-  n->pose (x,y,z): [-2.12378 , -0.973669 , 1.24197]
+9-  n->pose (x,y,z): [-2.07324 , -0.829256 , 1.24012]
+10-  n->pose (x,y,z): [-2.03789 , -0.715525 , 1.2453]
+11-  n->pose (x,y,z): [-1.9841 , -0.552715 , 1.26566]
+12-  n->pose (x,y,z): [-1.89192 , -0.464628 , 0.612337]
+13-  n->pose (x,y,z): [-1.88518 , -0.491495 , 0.214055]
+14-  n->pose (x,y,z): [-1.88405 , -0.493887 , -0.0608764]
+15-  n->pose (x,y,z): [-1.88523 , -0.51317 , -0.292385]
+16-  n->pose (x,y,z): [-1.89755 , -0.533316 , -0.582457]
+17-  n->pose (x,y,z): [-1.90955 , -0.543364 , -0.854179]
+18-  n->pose (x,y,z): [-1.9241 , -0.553375 , -1.09835]
+19-  n->pose (x,y,z): [-1.94259 , -0.55873 , -1.40894]
+20-  n->pose (x,y,z): [-1.95721 , -0.549517 , -1.64801]
+21-  n->pose (x,y,z): [-1.9638 , -0.547613 , -1.773]
+22-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+23-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 24
+update ld=0.348036 ad=0.132167
+m_count 22
+Average Scan Matching Score=172.062
+neff= 62.7065
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.94034 , -2.0253 , 3.04172]
+2-  n->pose (x,y,z): [-2.28904 , -1.99759 , 3.17521]
+3-  n->pose (x,y,z): [-2.48602 , -1.92836 , 1.81438]
+4-  n->pose (x,y,z): [-2.37055 , -1.65532 , 1.21377]
+5-  n->pose (x,y,z): [-2.2997 , -1.45992 , 1.21518]
+6-  n->pose (x,y,z): [-2.24549 , -1.31819 , 1.2294]
+7-  n->pose (x,y,z): [-2.19578 , -1.18481 , 1.23773]
+8-  n->pose (x,y,z): [-2.16074 , -1.07739 , 1.23376]
+9-  n->pose (x,y,z): [-2.12034 , -0.969023 , 1.24542]
+10-  n->pose (x,y,z): [-2.07238 , -0.832398 , 1.24119]
+11-  n->pose (x,y,z): [-2.0361 , -0.714052 , 1.24862]
+12-  n->pose (x,y,z): [-1.98368 , -0.563372 , 1.26408]
+13-  n->pose (x,y,z): [-1.89082 , -0.45796 , 0.617059]
+14-  n->pose (x,y,z): [-1.88287 , -0.482827 , 0.224112]
+15-  n->pose (x,y,z): [-1.88388 , -0.489701 , -0.0591155]
+16-  n->pose (x,y,z): [-1.88583 , -0.512734 , -0.291759]
+17-  n->pose (x,y,z): [-1.89716 , -0.530648 , -0.582323]
+18-  n->pose (x,y,z): [-1.90861 , -0.540041 , -0.852242]
+19-  n->pose (x,y,z): [-1.92392 , -0.550289 , -1.09652]
+20-  n->pose (x,y,z): [-1.94151 , -0.556419 , -1.40752]
+21-  n->pose (x,y,z): [-1.95619 , -0.54887 , -1.64694]
+22-  n->pose (x,y,z): [-1.96248 , -0.546611 , -1.77192]
+23-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+24-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 25
+update ld=0.287024 ad=0.00812071
+m_count 23
+Average Scan Matching Score=164.689
+neff= 62.5898
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.65863 , -2.02652 , 3.05788]
+2-  n->pose (x,y,z): [-1.94968 , -2.01637 , 3.05835]
+3-  n->pose (x,y,z): [-2.28543 , -1.98507 , 3.18178]
+4-  n->pose (x,y,z): [-2.48352 , -1.91597 , 1.82762]
+5-  n->pose (x,y,z): [-2.37031 , -1.64451 , 1.22052]
+6-  n->pose (x,y,z): [-2.29961 , -1.44184 , 1.2266]
+7-  n->pose (x,y,z): [-2.2489 , -1.31693 , 1.23047]
+8-  n->pose (x,y,z): [-2.20124 , -1.18392 , 1.23994]
+9-  n->pose (x,y,z): [-2.16272 , -1.07678 , 1.23479]
+10-  n->pose (x,y,z): [-2.12202 , -0.970019 , 1.24453]
+11-  n->pose (x,y,z): [-2.07307 , -0.832941 , 1.24188]
+12-  n->pose (x,y,z): [-2.03565 , -0.71454 , 1.24689]
+13-  n->pose (x,y,z): [-1.98306 , -0.56444 , 1.2629]
+14-  n->pose (x,y,z): [-1.89197 , -0.463353 , 0.613228]
+15-  n->pose (x,y,z): [-1.88589 , -0.488132 , 0.215527]
+16-  n->pose (x,y,z): [-1.88361 , -0.490585 , -0.0588277]
+17-  n->pose (x,y,z): [-1.88526 , -0.514362 , -0.291198]
+18-  n->pose (x,y,z): [-1.89689 , -0.526526 , -0.580834]
+19-  n->pose (x,y,z): [-1.90847 , -0.545522 , -0.852347]
+20-  n->pose (x,y,z): [-1.92389 , -0.553286 , -1.09559]
+21-  n->pose (x,y,z): [-1.94155 , -0.556501 , -1.40722]
+22-  n->pose (x,y,z): [-1.9564 , -0.549376 , -1.64708]
+23-  n->pose (x,y,z): [-1.96304 , -0.54699 , -1.77211]
+24-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+25-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 26
+update ld=0.271499 ad=0.00398684
+m_count 24
+Average Scan Matching Score=167.061
+neff= 62.6492
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.38616 , -2.07358 , 3.04369]
+2-  n->pose (x,y,z): [-1.65828 , -2.04382 , 3.05591]
+3-  n->pose (x,y,z): [-1.95152 , -2.02263 , 3.05414]
+4-  n->pose (x,y,z): [-2.29048 , -1.99451 , 3.17773]
+5-  n->pose (x,y,z): [-2.4886 , -1.91976 , 1.8232]
+6-  n->pose (x,y,z): [-2.37023 , -1.65727 , 1.21239]
+7-  n->pose (x,y,z): [-2.30112 , -1.44608 , 1.22431]
+8-  n->pose (x,y,z): [-2.24878 , -1.31764 , 1.22864]
+9-  n->pose (x,y,z): [-2.19559 , -1.18436 , 1.23778]
+10-  n->pose (x,y,z): [-2.16188 , -1.0787 , 1.23267]
+11-  n->pose (x,y,z): [-2.12378 , -0.973669 , 1.24197]
+12-  n->pose (x,y,z): [-2.07324 , -0.829256 , 1.24012]
+13-  n->pose (x,y,z): [-2.03789 , -0.715525 , 1.2453]
+14-  n->pose (x,y,z): [-1.9841 , -0.552715 , 1.26566]
+15-  n->pose (x,y,z): [-1.89192 , -0.464628 , 0.612337]
+16-  n->pose (x,y,z): [-1.88518 , -0.491495 , 0.214055]
+17-  n->pose (x,y,z): [-1.88405 , -0.493887 , -0.0608764]
+18-  n->pose (x,y,z): [-1.88523 , -0.51317 , -0.292385]
+19-  n->pose (x,y,z): [-1.89755 , -0.533316 , -0.582457]
+20-  n->pose (x,y,z): [-1.90955 , -0.543364 , -0.854179]
+21-  n->pose (x,y,z): [-1.9241 , -0.553375 , -1.09835]
+22-  n->pose (x,y,z): [-1.94259 , -0.55873 , -1.40894]
+23-  n->pose (x,y,z): [-1.95721 , -0.549517 , -1.64801]
+24-  n->pose (x,y,z): [-1.9638 , -0.547613 , -1.773]
+25-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+26-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 27
+update ld=0.202166 ad=1.33793
+m_count 25
+Scan Matching Failed, using odometry. Likelihood=-40.8638
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-590.102
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-14.3014
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-550.183
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-40.7851
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-960.913
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-40.812
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-67.6494
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-908.482
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-40.7639
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-47.8537
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-34.3387
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-941.293
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-954.003
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Scan Matching Failed, using odometry. Likelihood=-40.8251
+lp:-1.37266 -2.08471 3.03639
+op:-1.17352 -2.0499 1.69846
+Average Scan Matching Score=106.262
+neff= 37.3974
+*************RESAMPLE***************
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.19099 , -2.04626 , 1.7113]
+2-  n->pose (x,y,z): [-1.38519 , -2.08224 , 3.03591]
+3-  n->pose (x,y,z): [-1.65756 , -2.05469 , 3.0416]
+4-  n->pose (x,y,z): [-1.94428 , -2.02146 , 3.04295]
+5-  n->pose (x,y,z): [-2.29106 , -1.99061 , 3.17409]
+6-  n->pose (x,y,z): [-2.48859 , -1.91837 , 1.8131]
+7-  n->pose (x,y,z): [-2.37526 , -1.65754 , 1.21972]
+8-  n->pose (x,y,z): [-2.3031 , -1.45111 , 1.22117]
+9-  n->pose (x,y,z): [-2.25157 , -1.31829 , 1.22959]
+10-  n->pose (x,y,z): [-2.20155 , -1.18086 , 1.23951]
+11-  n->pose (x,y,z): [-2.16392 , -1.08155 , 1.23063]
+12-  n->pose (x,y,z): [-2.12462 , -0.977807 , 1.24026]
+13-  n->pose (x,y,z): [-2.07593 , -0.821881 , 1.23857]
+14-  n->pose (x,y,z): [-2.03732 , -0.720918 , 1.24328]
+15-  n->pose (x,y,z): [-1.98546 , -0.547019 , 1.26306]
+16-  n->pose (x,y,z): [-1.89281 , -0.455074 , 0.613235]
+17-  n->pose (x,y,z): [-1.88553 , -0.49427 , 0.215531]
+18-  n->pose (x,y,z): [-1.8853 , -0.499012 , -0.0624569]
+19-  n->pose (x,y,z): [-1.88543 , -0.509445 , -0.293888]
+20-  n->pose (x,y,z): [-1.89796 , -0.521533 , -0.582285]
+21-  n->pose (x,y,z): [-1.91082 , -0.539085 , -0.856284]
+22-  n->pose (x,y,z): [-1.92503 , -0.548992 , -1.09911]
+23-  n->pose (x,y,z): [-1.94263 , -0.550532 , -1.40982]
+24-  n->pose (x,y,z): [-1.95642 , -0.546242 , -1.64957]
+25-  n->pose (x,y,z): [-1.96396 , -0.543474 , -1.77503]
+26-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+27-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+update frame 28
+update ld=0.125366 ad=2.70841
+m_count 26
+Scan Matching Failed, using odometry. Likelihood=-762.513
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-742.477
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-437.215
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-874.91
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-967.97
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.093
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.1104
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-722.452
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-775.609
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-974.461
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-742.425
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-722.29
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-941.399
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-768.69
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-954.408
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-682.367
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-1040.7
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-980.816
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-981.038
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-762.134
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-954.352
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.0247
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.0242
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-708.994
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.0587
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-762.557
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-980.973
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-1047.45
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-961.008
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-755.866
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-934.615
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-20.6025
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-749.441
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.1201
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-748.724
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-742.567
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-670.019
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-14.074
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Scan Matching Failed, using odometry. Likelihood=-1000.84
+lp:-1.17352 -2.0499 1.69846
+op:-1.20143 -2.17212 -1.87632
+Average Scan Matching Score=72.0505
+neff= 31.8899
+*************RESAMPLE***************
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.21373 , -2.16856 , 4.41183]
+2-  n->pose (x,y,z): [-1.19099 , -2.04626 , 1.7113]
+3-  n->pose (x,y,z): [-1.38519 , -2.08224 , 3.03591]
+4-  n->pose (x,y,z): [-1.65756 , -2.05469 , 3.0416]
+5-  n->pose (x,y,z): [-1.94428 , -2.02146 , 3.04295]
+6-  n->pose (x,y,z): [-2.29106 , -1.99061 , 3.17409]
+7-  n->pose (x,y,z): [-2.48859 , -1.91837 , 1.8131]
+8-  n->pose (x,y,z): [-2.37526 , -1.65754 , 1.21972]
+9-  n->pose (x,y,z): [-2.3031 , -1.45111 , 1.22117]
+10-  n->pose (x,y,z): [-2.25157 , -1.31829 , 1.22959]
+11-  n->pose (x,y,z): [-2.20155 , -1.18086 , 1.23951]
+12-  n->pose (x,y,z): [-2.16392 , -1.08155 , 1.23063]
+13-  n->pose (x,y,z): [-2.12462 , -0.977807 , 1.24026]
+14-  n->pose (x,y,z): [-2.07593 , -0.821881 , 1.23857]
+15-  n->pose (x,y,z): [-2.03732 , -0.720918 , 1.24328]
+16-  n->pose (x,y,z): [-1.98546 , -0.547019 , 1.26306]
+17-  n->pose (x,y,z): [-1.89281 , -0.455074 , 0.613235]
+18-  n->pose (x,y,z): [-1.88553 , -0.49427 , 0.215531]
+19-  n->pose (x,y,z): [-1.8853 , -0.499012 , -0.0624569]
+20-  n->pose (x,y,z): [-1.88543 , -0.509445 , -0.293888]
+21-  n->pose (x,y,z): [-1.89796 , -0.521533 , -0.582285]
+22-  n->pose (x,y,z): [-1.91082 , -0.539085 , -0.856284]
+23-  n->pose (x,y,z): [-1.92503 , -0.548992 , -1.09911]
+24-  n->pose (x,y,z): [-1.94263 , -0.550532 , -1.40982]
+25-  n->pose (x,y,z): [-1.95642 , -0.546242 , -1.64957]
+26-  n->pose (x,y,z): [-1.96396 , -0.543474 , -1.77503]
+27-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+28-  n->pose (x,y,z): [-1.96919 , -0.557415 , -1.83741]
+Reading is NULL ------------------------
+
+... logging to /home/ludo/.ros/log/c34cb152-8317-11eb-af34-00155ddebbad/roslaunch-LAPTOP-63323AU9-13464.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch
+[1mstarted roslaunch server http://LAPTOP-63323AU9:37485/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 50.0
+ * /robot_state_publisher/tf_prefix: 
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+ * /turtlebot3_slam_gmapping/angularUpdate: 0.2
+ * /turtlebot3_slam_gmapping/astep: 0.05
+ * /turtlebot3_slam_gmapping/base_frame: base_footprint
+ * /turtlebot3_slam_gmapping/delta: 0.05
+ * /turtlebot3_slam_gmapping/iterations: 5
+ * /turtlebot3_slam_gmapping/kernelSize: 1
+ * /turtlebot3_slam_gmapping/lasamplerange: 0.005
+ * /turtlebot3_slam_gmapping/lasamplestep: 0.005
+ * /turtlebot3_slam_gmapping/linearUpdate: 1.0
+ * /turtlebot3_slam_gmapping/llsamplerange: 0.01
+ * /turtlebot3_slam_gmapping/llsamplestep: 0.01
+ * /turtlebot3_slam_gmapping/lsigma: 0.075
+ * /turtlebot3_slam_gmapping/lskip: 0
+ * /turtlebot3_slam_gmapping/lstep: 0.05
+ * /turtlebot3_slam_gmapping/map_frame: map
+ * /turtlebot3_slam_gmapping/map_update_interval: 2.0
+ * /turtlebot3_slam_gmapping/maxUrange: 3.0
+ * /turtlebot3_slam_gmapping/minimumScore: 50
+ * /turtlebot3_slam_gmapping/odom_frame: odom
+ * /turtlebot3_slam_gmapping/ogain: 3.0
+ * /turtlebot3_slam_gmapping/particles: 100
+ * /turtlebot3_slam_gmapping/resampleThreshold: 0.5
+ * /turtlebot3_slam_gmapping/sigma: 0.05
+ * /turtlebot3_slam_gmapping/srr: 0.1
+ * /turtlebot3_slam_gmapping/srt: 0.2
+ * /turtlebot3_slam_gmapping/str: 0.1
+ * /turtlebot3_slam_gmapping/stt: 0.2
+ * /turtlebot3_slam_gmapping/temporalUpdate: 0.5
+ * /turtlebot3_slam_gmapping/xmax: 10.0
+ * /turtlebot3_slam_gmapping/xmin: -10.0
+ * /turtlebot3_slam_gmapping/ymax: 10.0
+ * /turtlebot3_slam_gmapping/ymin: -10.0
+
+NODES
+  /
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    rviz (rviz/rviz)
+    turtlebot3_slam_gmapping (gmapping/slam_gmapping)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch http://localhost:11311
+[1mprocess[robot_state_publisher-1]: started with pid [13482][0m
+[1mprocess[turtlebot3_slam_gmapping-2]: started with pid [13483][0m
+[1mprocess[rviz-3]: started with pid [13490][0m
+[turtlebot3_slam_gmapping-2] killing on exit
+[rviz-3] killing on exit
+[robot_state_publisher-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+... logging to /home/ludo/.ros/log/c34cb152-8317-11eb-af34-00155ddebbad/roslaunch-LAPTOP-63323AU9-13679.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch

@@ -1,0 +1,1417 @@
+coordenadas del objeto n en la imagen0(x,y)=(166,447)
+angulo del robot (euler):  1.98506160769
+angulo del robot (grados): 203.735652194
+distancia al objeto en la nube de puntos (x,y,z) = (-1.34918355942,3.17720150948,3.17720150948)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(217,208)
+angulo del robot (euler):  1.99882555143
+angulo del robot (grados): 204.52426808
+distancia al objeto en la nube de puntos (x,y,z) = (-1.51481389999,2.43275237083,2.43275237083)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(184,457)
+angulo del robot (euler):  2.20801486604
+angulo del robot (grados): 216.509932926
+distancia al objeto en la nube de puntos (x,y,z) = (-0.936342477798,2.24887990952,2.24887990952)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(49,137)
+angulo del robot (euler):  2.21443043024
+angulo del robot (grados): 216.877517678
+distancia al objeto en la nube de puntos (x,y,z) = (-1.42641150951,2.0930352211,2.0930352211)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(406,218)
+angulo del robot (euler):  2.22065991649
+angulo del robot (grados): 217.234440949
+distancia al objeto en la nube de puntos (x,y,z) = (-1.37809598446,2.24303436279,2.24303436279)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(40,135)
+angulo del robot (euler):  2.41321552006
+angulo del robot (grados): 228.267064355
+distancia al objeto en la nube de puntos (x,y,z) = (-1.33814167976,1.95875012875,1.95875012875)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(43,100)
+angulo del robot (euler):  2.41321552006
+angulo del robot (grados): 228.267064355
+distancia al objeto en la nube de puntos (x,y,z) = (-1.35921812057,1.90858221054,1.90858221054)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(188,228)
+angulo del robot (euler):  2.41972506297
+angulo del robot (grados): 228.64003369
+distancia al objeto en la nube de puntos (x,y,z) = (-1.27635145187,2.10583114624,2.10583114624)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(64,100)
+angulo del robot (euler):  2.41972506297
+angulo del robot (grados): 228.64003369
+distancia al objeto en la nube de puntos (x,y,z) = (-1.35921812057,1.90858221054,1.90858221054)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(421,306)
+angulo del robot (euler):  2.42644291593
+angulo del robot (grados): 229.024938312
+distancia al objeto en la nube de puntos (x,y,z) = (-0.945487201214,1.74613440037,1.74613440037)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(307,341)
+angulo del robot (euler):  2.42644291593
+angulo del robot (grados): 229.024938312
+distancia al objeto en la nube de puntos (x,y,z) = (-0.88628745079,1.7294280529,1.7294280529)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(580,493)
+angulo del robot (euler):  2.42644291593
+angulo del robot (grados): 229.024938312
+distancia al objeto en la nube de puntos (x,y,z) = (-0.851928591728,2.20403838158,2.20403838158)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(35,122)
+angulo del robot (euler):  2.64275255468
+angulo del robot (grados): 241.41856768
+distancia al objeto en la nube de puntos (x,y,z) = (-0.847066402435,1.22067558765,1.22067558765)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(95,113)
+angulo del robot (euler):  2.64275255468
+angulo del robot (grados): 241.41856768
+distancia al objeto en la nube de puntos (x,y,z) = (-0.85101723671,1.21333014965,1.21333014965)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(347,199)
+angulo del robot (euler):  2.64978013426
+angulo del robot (grados): 241.821218331
+distancia al objeto en la nube de puntos (x,y,z) = (-1.21570396423,1.92928421497,1.92928421497)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(248,201)
+angulo del robot (euler):  2.64978013426
+angulo del robot (grados): 241.821218331
+distancia al objeto en la nube de puntos (x,y,z) = (-1.21422970295,1.93202567101,1.93202567101)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(61,113)
+angulo del robot (euler):  2.64978013426
+angulo del robot (grados): 241.821218331
+distancia al objeto en la nube de puntos (x,y,z) = (-0.85101723671,1.21333014965,1.21333014965)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(391,243)
+angulo del robot (euler):  2.65660003691
+angulo del robot (grados): 242.211969969
+distancia al objeto en la nube de puntos (x,y,z) = (-1.18227112293,1.9914457798,1.9914457798)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(726,416)
+angulo del robot (euler):  2.65660003691
+angulo del robot (grados): 242.211969969
+distancia al objeto en la nube de puntos (x,y,z) = (-0.972444236279,2.15939831734,2.15939831734)
+
+
+coordenadas del objeto n en la imagen7(x,y)=(321,310)
+angulo del robot (euler):  2.65660003691
+angulo del robot (grados): 242.211969969
+distancia al objeto en la nube de puntos (x,y,z) = (-1.12701058388,2.09419178963,2.09419178963)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(43,136)
+angulo del robot (euler):  2.7983505703
+angulo del robot (grados): 250.333677276
+distancia al objeto en la nube de puntos (x,y,z) = (-0.769418716431,1.12763035297,1.12763035297)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(103,115)
+angulo del robot (euler):  2.7983505703
+angulo del robot (grados): 250.333677276
+distancia al objeto en la nube de puntos (x,y,z) = (-0.779983043671,1.11468744278,1.11468744278)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(345,193)
+angulo del robot (euler):  2.7983505703
+angulo del robot (grados): 250.333677276
+distancia al objeto en la nube de puntos (x,y,z) = (-0.739467084408,1.16432523727,1.16432523727)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(242,186)
+angulo del robot (euler):  2.80264631974
+angulo del robot (grados): 250.579805589
+distancia al objeto en la nube de puntos (x,y,z) = (-0.743249952793,1.15969073772,1.15969073772)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(205,232)
+angulo del robot (euler):  2.80264631974
+angulo del robot (grados): 250.579805589
+distancia al objeto en la nube de puntos (x,y,z) = (-0.717825293541,1.19083988667,1.19083988667)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(274,297)
+angulo del robot (euler):  2.80691085807
+angulo del robot (grados): 250.824145637
+distancia al objeto en la nube de puntos (x,y,z) = (-0.67947858572,1.23782002926,1.23782002926)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(393,297)
+angulo del robot (euler):  2.80691085807
+angulo del robot (grados): 250.824145637
+distancia al objeto en la nube de puntos (x,y,z) = (-0.67947858572,1.23782002926,1.23782002926)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(145,120)
+angulo del robot (euler):  2.94868842565
+angulo del robot (grados): 258.947401889
+distancia al objeto en la nube de puntos (x,y,z) = (-0.745989441872,1.07245624065,1.07245624065)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(270,184)
+angulo del robot (euler):  2.94868842565
+angulo del robot (grados): 258.947401889
+distancia al objeto en la nube de puntos (x,y,z) = (-0.705926895142,1.09861505032,1.09861505032)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(98,136)
+angulo del robot (euler):  2.95493661467
+angulo del robot (grados): 259.305396749
+distancia al objeto en la nube de puntos (x,y,z) = (-0.736153781414,1.07887852192,1.07887852192)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(452,264)
+angulo del robot (euler):  2.95493661467
+angulo del robot (grados): 259.305396749
+distancia al objeto en la nube de puntos (x,y,z) = (-0.65301400423,1.13316452503,1.13316452503)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(883,398)
+angulo del robot (euler):  2.95493661467
+angulo del robot (grados): 259.305396749
+distancia al objeto en la nube de puntos (x,y,z) = (-0.556514501572,1.19617390633,1.19617390633)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(289,193)
+angulo del robot (euler):  2.96119212537
+angulo del robot (grados): 259.663811111
+distancia al objeto en la nube de puntos (x,y,z) = (-0.700135886669,1.10239636898,1.10239636898)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(56,156)
+angulo del robot (euler):  3.12240741663
+angulo del robot (grados): 268.900766893
+distancia al objeto en la nube de puntos (x,y,z) = (-0.724466860294,1.08817875385,1.08817875385)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(128,109)
+angulo del robot (euler):  3.12892167993
+angulo del robot (grados): 269.274006687
+distancia al objeto en la nube de puntos (x,y,z) = (-0.755568027496,1.07217788696,1.07217788696)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(266,185)
+angulo del robot (euler):  3.12892167993
+angulo del robot (grados): 269.274006687
+distancia al objeto en la nube de puntos (x,y,z) = (-0.704809367657,1.09829211235,1.09829211235)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(474,299)
+angulo del robot (euler):  3.12892167993
+angulo del robot (grados): 269.274006687
+distancia al objeto en la nube de puntos (x,y,z) = (-0.623859584332,1.13993906975,1.13993906975)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(208,94)
+angulo del robot (euler):  -2.9448718248
+angulo del robot (grados): 281.271273232
+distancia al objeto en la nube de puntos (x,y,z) = (-0.800408601761,1.11612355709,1.11612355709)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(354,206)
+angulo del robot (euler):  -2.9448718248
+angulo del robot (grados): 281.271273232
+distancia al objeto en la nube de puntos (x,y,z) = (-0.70373159647,1.1271750927,1.1271750927)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(449,269)
+angulo del robot (euler):  -2.9448718248
+angulo del robot (grados): 281.271273232
+distancia al objeto en la nube de puntos (x,y,z) = (-0.654114127159,1.14329278469,1.14329278469)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(387,310)
+angulo del robot (euler):  -2.93784608367
+angulo del robot (grados): 281.673818546
+distancia al objeto en la nube de puntos (x,y,z) = (-0.621054112911,1.15403211117,1.15403211117)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(344,177)
+angulo del robot (euler):  -2.93784608367
+angulo del robot (grados): 281.673818546
+distancia al objeto en la nube de puntos (x,y,z) = (-0.726104080677,1.11990749836,1.11990749836)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(234,189)
+angulo del robot (euler):  -2.77591728486
+angulo del robot (grados): 290.9516553
+distancia al objeto en la nube de puntos (x,y,z) = (-0.755266129971,1.1830278635,1.1830278635)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(463,286)
+angulo del robot (euler):  -2.77119248049
+angulo del robot (grados): 291.22236665
+distancia al objeto en la nube de puntos (x,y,z) = (-0.653954029083,1.17186403275,1.17186403275)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(252,300)
+angulo del robot (euler):  -2.57056215027
+angulo del robot (grados): 302.717637813
+distancia al objeto en la nube de puntos (x,y,z) = (-0.781360387802,1.42989516258,1.42989516258)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -2.43410838067
+angulo del robot (grados): 310.53586291
+distancia al objeto en la nube de puntos (x,y,z) = (-1.85711038113,2.33593273163,2.33593273163)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -2.24486010696
+angulo del robot (grados): 321.378990274
+distancia al objeto en la nube de puntos (x,y,z) = (-2.49083566666,3.13305282593,3.13305282593)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -2.05757957437
+angulo del robot (grados): 332.109374377
+distancia al objeto en la nube de puntos (x,y,z) = (-2.70882916451,3.40725183487,3.40725183487)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(179,289)
+angulo del robot (euler):  -1.89671120379
+angulo del robot (grados): 341.326453068
+distancia al objeto en la nube de puntos (x,y,z) = (-2.14866399765,3.86756253242,3.86756253242)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(1850,1079)
+angulo del robot (euler):  -1.89671120379
+angulo del robot (grados): 341.326453068
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(277,319)
+angulo del robot (euler):  -1.66889338103
+angulo del robot (grados): 354.37945281
+distancia al objeto en la nube de puntos (x,y,z) = (-2.00667738914,3.78116846085,3.78116846085)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(210,337)
+angulo del robot (euler):  -1.66889338103
+angulo del robot (grados): 354.37945281
+distancia al objeto en la nube de puntos (x,y,z) = (-1.96786665916,3.81525802612,3.81525802612)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(240,523)
+angulo del robot (euler):  -1.51196290515
+angulo del robot (grados): 3.37090675434
+distancia al objeto en la nube de puntos (x,y,z) = (-1.42238235474,3.93278050423,3.93278050423)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(240,337)
+angulo del robot (euler):  -1.51196290515
+angulo del robot (grados): 3.37090675434
+distancia al objeto en la nube de puntos (x,y,z) = (-1.61782717705,3.13660883904,3.13660883904)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(224,339)
+angulo del robot (euler):  -1.51196290515
+angulo del robot (grados): 3.37090675434
+distancia al objeto en la nube de puntos (x,y,z) = (-1.61064898968,3.13275718689,3.13275718689)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(315,364)
+angulo del robot (euler):  -1.51196290515
+angulo del robot (grados): 3.37090675434
+distancia al objeto en la nube de puntos (x,y,z) = (-1.54609715939,3.13344883919,3.13344883919)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(217,560)
+angulo del robot (euler):  -1.35007505259
+angulo del robot (grados): 12.6463974607
+distancia al objeto en la nube de puntos (x,y,z) = (-1.30447864532,3.94083070755,3.94083070755)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(48,69)
+angulo del robot (euler):  -1.35007505259
+angulo del robot (grados): 12.6463974607
+distancia al objeto en la nube de puntos (x,y,z) = (-2.66195273399,3.6077299118,3.6077299118)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(62,54)
+angulo del robot (euler):  -1.35007505259
+angulo del robot (grados): 12.6463974607
+distancia al objeto en la nube de puntos (x,y,z) = (-2.69982028008,3.5984377861,3.5984377861)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(455,138)
+angulo del robot (euler):  -1.3445174584
+angulo del robot (grados): 12.9648241518
+distancia al objeto en la nube de puntos (x,y,z) = (-2.48521280289,3.6510989666,3.6510989666)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(239,327)
+angulo del robot (euler):  -1.3445174584
+angulo del robot (grados): 12.9648241518
+distancia al objeto en la nube de puntos (x,y,z) = (-1.97859716415,3.77541303635,3.77541303635)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(206,353)
+angulo del robot (euler):  -1.3445174584
+angulo del robot (grados): 12.9648241518
+distancia al objeto en la nube de puntos (x,y,z) = (-1.90619206429,3.79317998886,3.79317998886)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(300,411)
+angulo del robot (euler):  -1.33904151477
+angulo del robot (grados): 13.2785726106
+distancia al objeto en la nube de puntos (x,y,z) = (-1.74219107628,3.83342313766,3.83342313766)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(219,523)
+angulo del robot (euler):  -1.17788838525
+angulo del robot (grados): 22.5119667877
+distancia al objeto en la nube de puntos (x,y,z) = (-1.407761693,3.89235544205,3.89235544205)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(62,74)
+angulo del robot (euler):  -1.17788838525
+angulo del robot (grados): 22.5119667877
+distancia al objeto en la nube de puntos (x,y,z) = (-2.81625437737,3.83840608597,3.83840608597)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(86,68)
+angulo del robot (euler):  -1.17158824091
+angulo del robot (grados): 22.8729384688
+distancia al objeto en la nube de puntos (x,y,z) = (-2.83385109901,3.83639478683,3.83639478683)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(384,130)
+angulo del robot (euler):  -1.17158824091
+angulo del robot (grados): 22.8729384688
+distancia al objeto en la nube de puntos (x,y,z) = (-2.65112280846,3.85727906227,3.85727906227)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(222,342)
+angulo del robot (euler):  -1.17158824091
+angulo del robot (grados): 22.8729384688
+distancia al objeto en la nube de puntos (x,y,z) = (-2.01099324226,3.93044090271,3.93044090271)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(207,415)
+angulo del robot (euler):  -1.17158824091
+angulo del robot (grados): 22.8729384688
+distancia al objeto en la nube de puntos (x,y,z) = (-1.78491401672,3.95627999306,3.95627999306)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(213,541)
+angulo del robot (euler):  -1.01587159862
+angulo del robot (grados): 31.7948448718
+distancia al objeto en la nube de puntos (x,y,z) = (-1.47466945648,4.25272035599,4.25272035599)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(80,93)
+angulo del robot (euler):  -1.01587159862
+angulo del robot (grados): 31.7948448718
+distancia al objeto en la nube de puntos (x,y,z) = (-3.14480090141,4.38018226624,4.38018226624)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(57,111)
+angulo del robot (euler):  -1.01587159862
+angulo del robot (grados): 31.7948448718
+distancia al objeto en la nube de puntos (x,y,z) = (-3.07576942444,4.37491416931,4.37491416931)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(327,140)
+angulo del robot (euler):  -1.00931702405
+angulo del robot (grados): 32.1703943312
+distancia al objeto en la nube de puntos (x,y,z) = (-2.96490049362,4.36645269394,4.36645269394)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(204,333)
+angulo del robot (euler):  -1.00931702405
+angulo del robot (grados): 32.1703943312
+distancia al objeto en la nube de puntos (x,y,z) = (-2.23783397675,4.31096410751,4.31096410751)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(197,350)
+angulo del robot (euler):  -1.00931702405
+angulo del robot (grados): 32.1703943312
+distancia al objeto en la nube de puntos (x,y,z) = (-2.1746764183,4.30614376068,4.30614376068)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(92,87)
+angulo del robot (euler):  -0.819508927877
+angulo del robot (grados): 43.0455971593
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(63,84)
+angulo del robot (euler):  -0.81269788765
+angulo del robot (grados): 43.4358410185
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(323,146)
+angulo del robot (euler):  -0.805888180783
+angulo del robot (grados): 43.8260084816
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(191,505)
+angulo del robot (euler):  -0.805888180783
+angulo del robot (grados): 43.8260084816
+distancia al objeto en la nube de puntos (x,y,z) = (-1.79916763306,4.77755117416,4.77755117416)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(239,344)
+angulo del robot (euler):  -0.805888180783
+angulo del robot (grados): 43.8260084816
+distancia al objeto en la nube de puntos (x,y,z) = (-2.54123258591,4.98292064667,4.98292064667)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(240,359)
+angulo del robot (euler):  -0.805888180783
+angulo del robot (grados): 43.8260084816
+distancia al objeto en la nube de puntos (x,y,z) = (-2.46941184998,4.96304416656,4.96304416656)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(226,369)
+angulo del robot (euler):  -0.805888180783
+angulo del robot (grados): 43.8260084816
+distancia al objeto en la nube de puntos (x,y,z) = (-2.42184877396,4.94988059998,4.94988059998)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(29,65)
+angulo del robot (euler):  -0.668555746277
+angulo del robot (grados): 51.6945773691
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(247,505)
+angulo del robot (euler):  -0.662901002477
+angulo del robot (grados): 52.0185703231
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(116,86)
+angulo del robot (euler):  -0.662901002477
+angulo del robot (grados): 52.0185703231
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(295,147)
+angulo del robot (euler):  -0.662901002477
+angulo del robot (grados): 52.0185703231
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(270,339)
+angulo del robot (euler):  -0.662901002477
+angulo del robot (grados): 52.0185703231
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(57,78)
+angulo del robot (euler):  -0.491656755378
+angulo del robot (grados): 61.8301429477
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(48,90)
+angulo del robot (euler):  -0.491656755378
+angulo del robot (grados): 61.8301429477
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(287,598)
+angulo del robot (euler):  -0.478920410735
+angulo del robot (grados): 62.5598817422
+distancia al objeto en la nube de puntos (x,y,z) = (-0.671501457691,2.24184846878,2.24184846878)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(429,138)
+angulo del robot (euler):  -0.478920410735
+angulo del robot (grados): 62.5598817422
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(77,97)
+angulo del robot (euler):  -0.478920410735
+angulo del robot (grados): 62.5598817422
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(52,75)
+angulo del robot (euler):  -0.284131586227
+angulo del robot (grados): 73.7204592829
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(502,162)
+angulo del robot (euler):  -0.277538483452
+angulo del robot (grados): 74.0982162457
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(88,78)
+angulo del robot (euler):  -0.277538483452
+angulo del robot (grados): 74.0982162457
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(69,103)
+angulo del robot (euler):  -0.277538483452
+angulo del robot (grados): 74.0982162457
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -0.107708312239
+angulo del robot (grados): 83.8287682902
+distancia al objeto en la nube de puntos (x,y,z) = (-2.3851351738,3.00009918213,3.00009918213)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(156,279)
+angulo del robot (euler):  0.0496835032783
+angulo del robot (grados): 92.8466550493
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(91,106)
+angulo del robot (euler):  0.0496835032783
+angulo del robot (grados): 92.8466550493
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(78,110)
+angulo del robot (euler):  0.0496835032783
+angulo del robot (grados): 92.8466550493
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(356,308)
+angulo del robot (euler):  0.0496835032783
+angulo del robot (grados): 92.8466550493
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(63,105)
+angulo del robot (euler):  0.0560130661689
+angulo del robot (grados): 93.2093122891
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(187,380)
+angulo del robot (euler):  -0.00194310914054
+angulo del robot (grados): 89.8886680471
+distancia robot-objeto (x,y): (0.938243849672, -0.345974679063)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(353,386)
+angulo del robot (euler):  -0.0052999509856
+angulo del robot (grados): 89.6963351769
+distancia robot-objeto (x,y): (0.987076359062, -0.160250620531)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(305,365)
+angulo del robot (euler):  -0.0052999509856
+angulo del robot (grados): 89.6963351769
+distancia robot-objeto (x,y): (0.987076359062, -0.160250620531)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(224,249)
+angulo del robot (euler):  -0.0052999509856
+angulo del robot (grados): 89.6963351769
+distancia robot-objeto (x,y): (0.987076359062, -0.160250620531)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.25785315037,2.13665032387,2.13665032387)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(187,381)
+angulo del robot (euler):  -0.0824110753091
+angulo del robot (grados): 85.2781931997
+distancia robot-objeto (x,y): (-0.439634370092, -0.898176831495)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(355,384)
+angulo del robot (euler):  -0.0824110753091
+angulo del robot (grados): 85.2781931997
+distancia robot-objeto (x,y): (-0.439634370092, -0.898176831495)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(304,364)
+angulo del robot (euler):  -0.08590146868
+angulo del robot (grados): 85.0782083907
+distancia robot-objeto (x,y): (-0.252445461567, -0.967611124851)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(224,248)
+angulo del robot (euler):  -0.08590146868
+angulo del robot (grados): 85.0782083907
+distancia robot-objeto (x,y): (-0.252445461567, -0.967611124851)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.25524485111,2.12922310829,2.12922310829)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(187,382)
+angulo del robot (euler):  -0.16258118187
+angulo del robot (grados): 80.6847844506
+distancia robot-objeto (x,y): (-0.839642427192, 0.543139571803)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(356,383)
+angulo del robot (euler):  -0.16258118187
+angulo del robot (grados): 80.6847844506
+distancia robot-objeto (x,y): (-0.839642427192, 0.543139571803)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(304,364)
+angulo del robot (euler):  -0.16258118187
+angulo del robot (grados): 80.6847844506
+distancia robot-objeto (x,y): (-0.839642427192, 0.543139571803)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(225,249)
+angulo del robot (euler):  -0.16258118187
+angulo del robot (grados): 80.6847844506
+distancia robot-objeto (x,y): (-0.839642427192, 0.543139571803)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.25785326958,2.13665056229,2.13665056229)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(187,384)
+angulo del robot (euler):  -0.251813249297
+angulo del robot (grados): 75.5721635898
+distancia robot-objeto (x,y): (0.173064134938, 0.984910556953)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.21741902828,2.55306792259,2.55306792259)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(355,382)
+angulo del robot (euler):  -0.251813249297
+angulo del robot (grados): 75.5721635898
+distancia robot-objeto (x,y): (0.173064134938, 0.984910556953)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.22153663635,2.55283117294,2.55283117294)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(304,362)
+angulo del robot (euler):  -0.255447103014
+angulo del robot (grados): 75.3639591084
+distancia robot-objeto (x,y): (-0.0342578733334, 0.999413026789)
+distancia al objeto en la nube de puntos (x,y,z) = (-0.891922473907,1.8015935421,1.8015935421)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(224,247)
+angulo del robot (euler):  -0.255447103014
+angulo del robot (grados): 75.3639591084
+distancia robot-objeto (x,y): (-0.0342578733334, 0.999413026789)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.25265574455,2.12184906006,2.12184906006)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(35,82)
+angulo del robot (euler):  -0.329764209327
+angulo del robot (grados): 71.1059025711
+distancia robot-objeto (x,y): (0.913061265415, -0.407822419196)
+distancia al objeto en la nube de puntos (x,y,z) = (-0.996865570545,1.37106192112,1.37106192112)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(356,407)
+angulo del robot (euler):  -0.329764209327
+angulo del robot (grados): 71.1059025711
+distancia robot-objeto (x,y): (0.913061265415, -0.407822419196)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(290,273)
+angulo del robot (euler):  -0.329764209327
+angulo del robot (grados): 71.1059025711
+distancia robot-objeto (x,y): (0.913061265415, -0.407822419196)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.32644128799,2.33192777634,2.33192777634)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(196,358)
+angulo del robot (euler):  -0.373082070003
+angulo del robot (grados): 68.6239719768
+distancia robot-objeto (x,y): (-0.47156654205, 0.881830480546)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.71833407879,3.44778037071,3.44778037071)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(278,283)
+angulo del robot (euler):  -0.373082070003
+angulo del robot (grados): 68.6239719768
+distancia robot-objeto (x,y): (-0.47156654205, 0.881830480546)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.3589117527,2.42432618141,2.42432618141)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(320,278)
+angulo del robot (euler):  -0.441069493909
+angulo del robot (grados): 64.728579527
+distancia robot-objeto (x,y): (0.947353318354, -0.320190084488)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.34245753288,2.37740015984,2.37740015984)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(172,357)
+angulo del robot (euler):  -0.51493687599
+angulo del robot (grados): 60.4962902901
+distancia robot-objeto (x,y): (-0.721544076382, -0.692368504366)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.73928725719,3.4840297699,3.4840297699)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(287,382)
+angulo del robot (euler):  -0.594303515721
+angulo del robot (grados): 55.9489167994
+distancia robot-objeto (x,y): (-0.564436918608, 0.825476204934)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.06116771698,2.21768403053,2.21768403053)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -0.68676413713
+angulo del robot (grados): 50.6513134215
+distancia robot-objeto (x,y): (0.376329143193, 0.926486036583)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(414,613)
+angulo del robot (euler):  -0.77345714376
+angulo del robot (grados): 45.6841700283
+distancia robot-objeto (x,y): (0.991421761349, -0.13070153451)
+distancia al objeto en la nube de puntos (x,y,z) = (-0.518646776676,1.80649197102,1.80649197102)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(106,108)
+angulo del robot (euler):  -0.77345714376
+angulo del robot (grados): 45.6841700283
+distancia robot-objeto (x,y): (0.991421761349, -0.13070153451)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(58,95)
+angulo del robot (euler):  -0.77345714376
+angulo del robot (grados): 45.6841700283
+distancia robot-objeto (x,y): (0.991421761349, -0.13070153451)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(38,78)
+angulo del robot (euler):  -0.846415783945
+angulo del robot (grados): 41.5039478667
+distancia robot-objeto (x,y): (-0.6156758598, -0.787999515012)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(55,95)
+angulo del robot (euler):  -0.850021220153
+angulo del robot (grados): 41.2973715887
+distancia robot-objeto (x,y): (-0.440959186226, -0.897527156181)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(60,97)
+angulo del robot (euler):  -0.850021220153
+angulo del robot (grados): 41.2973715887
+distancia robot-objeto (x,y): (-0.440959186226, -0.897527156181)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(115,94)
+angulo del robot (euler):  -0.850021220153
+angulo del robot (grados): 41.2973715887
+distancia robot-objeto (x,y): (-0.440959186226, -0.897527156181)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(337,330)
+angulo del robot (euler):  -0.853525036872
+angulo del robot (grados): 41.0966176785
+distancia robot-objeto (x,y): (-0.253128955852, -0.967432546336)
+distancia al objeto en la nube de puntos (x,y,z) = (-0.973026871681,1.86550629139,1.86550629139)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(73,57)
+angulo del robot (euler):  -0.853525036872
+angulo del robot (grados): 41.0966176785
+distancia robot-objeto (x,y): (-0.253128955852, -0.967432546336)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(57,86)
+angulo del robot (euler):  -0.853525036872
+angulo del robot (grados): 41.0966176785
+distancia robot-objeto (x,y): (-0.253128955852, -0.967432546336)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(0,0)
+angulo del robot (euler):  -0.946123037778
+angulo del robot (grados): 35.7911430352
+distancia robot-objeto (x,y): (-0.943693836754, -0.330820105907)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.38465094566,2.99949026108,2.99949026108)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(175,315)
+angulo del robot (euler):  -1.04258453689
+angulo del robot (grados): 30.2643062503
+distancia robot-objeto (x,y): (-0.91342460812, 0.407007967098)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(129,120)
+angulo del robot (euler):  -1.04258453689
+angulo del robot (grados): 30.2643062503
+distancia robot-objeto (x,y): (-0.91342460812, 0.407007967098)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(27,71)
+angulo del robot (euler):  -1.09925084476
+angulo del robot (grados): 27.0175659691
+distancia robot-objeto (x,y): (0.951096943564, -0.308892544331)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(45,82)
+angulo del robot (euler):  -1.09925084476
+angulo del robot (grados): 27.0175659691
+distancia robot-objeto (x,y): (0.951096943564, -0.308892544331)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(409,170)
+angulo del robot (euler):  -1.09925084476
+angulo del robot (grados): 27.0175659691
+distancia robot-objeto (x,y): (0.951096943564, -0.308892544331)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(95,116)
+angulo del robot (euler):  -1.09925084476
+angulo del robot (grados): 27.0175659691
+distancia robot-objeto (x,y): (0.951096943564, -0.308892544331)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(73,64)
+angulo del robot (euler):  -1.10216566755
+angulo del robot (grados): 26.8505589251
+distancia robot-objeto (x,y): (0.98921181194, -0.1464922903)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(124,118)
+angulo del robot (euler):  -1.10216566755
+angulo del robot (grados): 26.8505589251
+distancia robot-objeto (x,y): (0.98921181194, -0.1464922903)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(73,74)
+angulo del robot (euler):  -1.10216566755
+angulo del robot (grados): 26.8505589251
+distancia robot-objeto (x,y): (0.98921181194, -0.1464922903)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen7(x,y)=(61,81)
+angulo del robot (euler):  -1.10216566755
+angulo del robot (grados): 26.8505589251
+distancia robot-objeto (x,y): (0.98921181194, -0.1464922903)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(42,75)
+angulo del robot (euler):  -1.17281992923
+angulo del robot (grados): 22.802367926
+distancia robot-objeto (x,y): (-0.72512737627, -0.688614760359)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(72,63)
+angulo del robot (euler):  -1.17281992923
+angulo del robot (grados): 22.802367926
+distancia robot-objeto (x,y): (-0.72512737627, -0.688614760359)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(494,149)
+angulo del robot (euler):  -1.1758496595
+angulo del robot (grados): 22.6287771686
+distancia robot-objeto (x,y): (-0.595291668812, -0.80350969443)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(351,576)
+angulo del robot (euler):  -1.24820743019
+angulo del robot (grados): 18.4829822931
+distancia robot-objeto (x,y): (-0.358418815642, 0.933560899242)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.10009253025,3.46203517914,3.46203517914)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(47,81)
+angulo del robot (euler):  -1.25124556919
+angulo del robot (grados): 18.3089097508
+distancia robot-objeto (x,y): (-0.514690110502, 0.857376282709)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(434,137)
+angulo del robot (euler):  -1.25124556919
+angulo del robot (grados): 18.3089097508
+distancia robot-objeto (x,y): (-0.514690110502, 0.857376282709)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(79,117)
+angulo del robot (euler):  -1.25124556919
+angulo del robot (grados): 18.3089097508
+distancia robot-objeto (x,y): (-0.514690110502, 0.857376282709)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(69,60)
+angulo del robot (euler):  -1.25428810687
+angulo del robot (grados): 18.134585183
+distancia robot-objeto (x,y): (-0.655595321292, 0.755112425206)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(72,120)
+angulo del robot (euler):  -1.25428810687
+angulo del robot (grados): 18.134585183
+distancia robot-objeto (x,y): (-0.655595321292, 0.755112425206)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(276,622)
+angulo del robot (euler):  -1.33271461236
+angulo del robot (grados): 13.6410774163
+distancia robot-objeto (x,y): (0.879450628839, 0.475990116951)
+distancia al objeto en la nube de puntos (x,y,z) = (-0.452382266521,1.61770522594,1.61770522594)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(70,81)
+angulo del robot (euler):  -1.33271461236
+angulo del robot (grados): 13.6410774163
+distancia robot-objeto (x,y): (0.879450628839, 0.475990116951)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(59,87)
+angulo del robot (euler):  -1.33271461236
+angulo del robot (grados): 13.6410774163
+distancia robot-objeto (x,y): (0.879450628839, 0.475990116951)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(414,142)
+angulo del robot (euler):  -1.33271461236
+angulo del robot (grados): 13.6410774163
+distancia robot-objeto (x,y): (0.879450628839, 0.475990116951)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(79,116)
+angulo del robot (euler):  -1.33588093994
+angulo del robot (grados): 13.4596602096
+distancia robot-objeto (x,y): (0.779138050064, 0.626852374122)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(77,60)
+angulo del robot (euler):  -1.33588093994
+angulo del robot (grados): 13.4596602096
+distancia robot-objeto (x,y): (0.779138050064, 0.626852374122)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(79,71)
+angulo del robot (euler):  -1.33588093994
+angulo del robot (grados): 13.4596602096
+distancia robot-objeto (x,y): (0.779138050064, 0.626852374122)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen7(x,y)=(77,112)
+angulo del robot (euler):  -1.33905224099
+angulo del robot (grados): 13.2779580436
+distancia robot-objeto (x,y): (0.653036795067, 0.757326180908)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(49,89)
+angulo del robot (euler):  -1.40424827072
+angulo del robot (grados): 9.54250069932
+distancia robot-objeto (x,y): (-0.117451013999, -0.993078677301)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(299,541)
+angulo del robot (euler):  -1.40424827072
+angulo del robot (grados): 9.54250069932
+distancia robot-objeto (x,y): (-0.117451013999, -0.993078677301)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(95,87)
+angulo del robot (euler):  -1.40752972886
+angulo del robot (grados): 9.35448699691
+distancia robot-objeto (x,y): (0.0702330956647, -0.997530607186)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(348,136)
+angulo del robot (euler):  -1.40752972886
+angulo del robot (grados): 9.35448699691
+distancia robot-objeto (x,y): (0.0702330956647, -0.997530607186)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(215,358)
+angulo del robot (euler):  -1.41091629403
+angulo del robot (grados): 9.16045110559
+distancia robot-objeto (x,y): (0.26125956184, -0.965268585082)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(49,91)
+angulo del robot (euler):  -1.50272678492
+angulo del robot (grados): 3.90009746308
+distancia robot-objeto (x,y): (-0.687836907514, -0.725865268946)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(243,547)
+angulo del robot (euler):  -1.50617448532
+angulo del robot (grados): 3.70255878087
+distancia robot-objeto (x,y): (-0.532004506162, -0.846741522203)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.67016041279,4.8865442276,4.8865442276)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(105,75)
+angulo del robot (euler):  -1.50617448532
+angulo del robot (grados): 3.70255878087
+distancia robot-objeto (x,y): (-0.532004506162, -0.846741522203)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(409,131)
+angulo del robot (euler):  -1.50617448532
+angulo del robot (grados): 3.70255878087
+distancia robot-objeto (x,y): (-0.532004506162, -0.846741522203)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(300,342)
+angulo del robot (euler):  -1.50617448532
+angulo del robot (grados): 3.70255878087
+distancia robot-objeto (x,y): (-0.532004506162, -0.846741522203)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(209,344)
+angulo del robot (euler):  -1.58040447902
+angulo del robot (grados): 359.449493429
+distancia robot-objeto (x,y): (0.965649371339, 0.259848593672)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.42100715637,4.74717903137,4.74717903137)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(219,552)
+angulo del robot (euler):  -1.58393323345
+angulo del robot (grados): 359.247310693
+distancia robot-objeto (x,y): (0.893799976179, 0.448465832124)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.53738617897,4.55326557159,4.55326557159)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(106,92)
+angulo del robot (euler):  -1.58393323345
+angulo del robot (grados): 359.247310693
+distancia robot-objeto (x,y): (0.893799976179, 0.448465832124)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(74,76)
+angulo del robot (euler):  -1.58393323345
+angulo del robot (grados): 359.247310693
+distancia robot-objeto (x,y): (0.893799976179, 0.448465832124)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(87,76)
+angulo del robot (euler):  -1.58393323345
+angulo del robot (grados): 359.247310693
+distancia robot-objeto (x,y): (0.893799976179, 0.448465832124)
+distancia al objeto en la nube de puntos (x,y,z) = (nan,nan,nan)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(276,153)
+angulo del robot (euler):  -1.58393323345
+angulo del robot (grados): 359.247310693
+distancia robot-objeto (x,y): (0.893799976179, 0.448465832124)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.30139374733,4.94038248062,4.94038248062)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(247,355)
+angulo del robot (euler):  -1.58756933361
+angulo del robot (grados): 359.0389775
+distancia robot-objeto (x,y): (0.781717426702, 0.623632796436)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.37239646912,4.73651123047,4.73651123047)
+
+
+coordenadas del objeto n en la imagen7(x,y)=(196,419)
+angulo del robot (euler):  -1.58756933361
+angulo del robot (grados): 359.0389775
+distancia robot-objeto (x,y): (0.781717426702, 0.623632796436)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.09462213516,4.67711019516,4.67711019516)
+
+
+coordenadas del objeto n en la imagen8(x,y)=(240,358)
+angulo del robot (euler):  -1.59109854179
+angulo del robot (grados): 358.836768766
+distancia robot-objeto (x,y): (0.64054384234, 0.767921601494)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.35917687416,4.7336101532,4.7336101532)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(193,535)
+angulo del robot (euler):  -1.68351155845
+angulo del robot (grados): 353.541892939
+distancia robot-objeto (x,y): (0.993653890815, -0.112480866227)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.55944728851,4.43364191055,4.43364191055)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(59,85)
+angulo del robot (euler):  -1.68351155845
+angulo del robot (grados): 353.541892939
+distancia robot-objeto (x,y): (0.993653890815, -0.112480866227)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.43835020065,4.74523687363,4.74523687363)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(73,90)
+angulo del robot (euler):  -1.68351155845
+angulo del robot (grados): 353.541892939
+distancia robot-objeto (x,y): (0.993653890815, -0.112480866227)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.41602373123,4.74153423309,4.74153423309)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(59,85)
+angulo del robot (euler):  -1.68700341542
+angulo del robot (grados): 353.341824272
+distancia robot-objeto (x,y): (0.996187478722, 0.0872382212002)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.43835020065,4.74523687363,4.74523687363)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(345,138)
+angulo del robot (euler):  -1.68700341542
+angulo del robot (grados): 353.341824272
+distancia robot-objeto (x,y): (0.996187478722, 0.0872382212002)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.20344924927,4.70628118515,4.70628118515)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(221,322)
+angulo del robot (euler):  -1.68700341542
+angulo del robot (grados): 353.341824272
+distancia robot-objeto (x,y): (0.996187478722, 0.0872382212002)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.41794395447,4.57755565643,4.57755565643)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(179,334)
+angulo del robot (euler):  -1.68700341542
+angulo del robot (grados): 353.341824272
+distancia robot-objeto (x,y): (0.996187478722, 0.0872382212002)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.36814975739,4.56929779053,4.56929779053)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(202,522)
+angulo del robot (euler):  -1.73739274682
+angulo del robot (grados): 350.454728251
+distancia robot-objeto (x,y): (-0.986063369896, 0.166370161233)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.52069091797,4.19498586655,4.19498586655)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(77,87)
+angulo del robot (euler):  -1.73986713028
+angulo del robot (grados): 350.312956522
+distancia robot-objeto (x,y): (-0.999678055563, 0.0253729230693)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.08421707153,4.26625776291,4.26625776291)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(52,80)
+angulo del robot (euler):  -1.73986713028
+angulo del robot (grados): 350.312956522
+distancia robot-objeto (x,y): (-0.999678055563, 0.0253729230693)
+distancia al objeto en la nube de puntos (x,y,z) = (-3.10981178284,4.26742458344,4.26742458344)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(339,133)
+angulo del robot (euler):  -1.73986713028
+angulo del robot (grados): 350.312956522
+distancia robot-objeto (x,y): (-0.999678055563, 0.0253729230693)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.91637134552,4.25860691071,4.25860691071)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(240,329)
+angulo del robot (euler):  -1.7422401556
+angulo del robot (grados): 350.176992186
+distancia robot-objeto (x,y): (-0.993891300435, -0.110363412956)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.20789813995,4.22631216049,4.22631216049)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(219,361)
+angulo del robot (euler):  -1.7422401556
+angulo del robot (grados): 350.176992186
+distancia robot-objeto (x,y): (-0.993891300435, -0.110363412956)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.09324812889,4.2210855484,4.2210855484)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(72,86)
+angulo del robot (euler):  -1.7904281512
+angulo del robot (grados): 347.416023415
+distancia robot-objeto (x,y): (0.96376150863, -0.266765354727)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.96618747711,4.09829568863,4.09829568863)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(204,498)
+angulo del robot (euler):  -1.79335409653
+angulo del robot (grados): 347.248379096
+distancia robot-objeto (x,y): (0.994762632464, -0.102212059239)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.57156872749,4.10988140106,4.10988140106)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(72,84)
+angulo del robot (euler):  -1.79335409653
+angulo del robot (grados): 347.248379096
+distancia robot-objeto (x,y): (0.994762632464, -0.102212059239)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.97293806076,4.09823942184,4.09823942184)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(74,76)
+angulo del robot (euler):  -1.796362768
+angulo del robot (grados): 347.075994919
+distancia robot-objeto (x,y): (0.997551468655, 0.0699361664991)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.99993944168,4.09801483154,4.09801483154)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(398,134)
+angulo del robot (euler):  -1.796362768
+angulo del robot (grados): 347.075994919
+distancia robot-objeto (x,y): (0.997551468655, 0.0699361664991)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.80411219597,4.09964179993,4.09964179993)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(229,363)
+angulo del robot (euler):  -1.796362768
+angulo del robot (grados): 347.075994919
+distancia robot-objeto (x,y): (0.997551468655, 0.0699361664991)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.0294110775,4.10607814789,4.10607814789)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(214,431)
+angulo del robot (euler):  -1.796362768
+angulo del robot (grados): 347.075994919
+distancia robot-objeto (x,y): (0.997551468655, 0.0699361664991)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.79890012741,4.10799264908,4.10799264908)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(210,516)
+angulo del robot (euler):  -1.86369262035
+angulo del robot (grados): 343.218278544
+distancia robot-objeto (x,y): (-0.706598287426, -0.707614909542)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.40018975735,3.81031489372,3.81031489372)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(279,126)
+angulo del robot (euler):  -1.86369262035
+angulo del robot (grados): 343.218278544
+distancia robot-objeto (x,y): (-0.706598287426, -0.707614909542)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.7175693512,3.93498086929,3.93498086929)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(86,90)
+angulo del robot (euler):  -1.86369262035
+angulo del robot (grados): 343.218278544
+distancia robot-objeto (x,y): (-0.706598287426, -0.707614909542)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.82900881767,3.92674160004,3.92674160004)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(407,134)
+angulo del robot (euler):  -1.86369262035
+angulo del robot (grados): 343.218278544
+distancia robot-objeto (x,y): (-0.706598287426, -0.707614909542)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.69274139404,3.93681645393,3.93681645393)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(237,344)
+angulo del robot (euler):  -1.86670582311
+angulo del robot (grados): 343.045634743
+distancia robot-objeto (x,y): (-0.574534667324, -0.818480247803)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.0326218605,3.98562216759,3.98562216759)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(209,362)
+angulo del robot (euler):  -1.86670582311
+angulo del robot (grados): 343.045634743
+distancia robot-objeto (x,y): (-0.574534667324, -0.818480247803)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.97527766228,3.98986172676,3.98986172676)
+
+
+coordenadas del objeto n en la imagen0(x,y)=(206,454)
+angulo del robot (euler):  -1.93864423369
+angulo del robot (grados): 338.923867432
+distancia robot-objeto (x,y): (-0.359879890665, 0.9329986411)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.59063637257,3.79767107964,3.79767107964)
+
+
+coordenadas del objeto n en la imagen1(x,y)=(58,73)
+angulo del robot (euler):  -1.93864423369
+angulo del robot (grados): 338.923867432
+distancia robot-objeto (x,y): (-0.359879890665, 0.9329986411)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.71640276909,3.69813728333,3.69813728333)
+
+
+coordenadas del objeto n en la imagen2(x,y)=(384,144)
+angulo del robot (euler):  -1.94166221818
+angulo del robot (grados): 338.750949658
+distancia robot-objeto (x,y): (-0.515042241844, 0.857164796942)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.52283620834,3.73364210129,3.73364210129)
+
+
+coordenadas del objeto n en la imagen3(x,y)=(101,84)
+angulo del robot (euler):  -1.94166221818
+angulo del robot (grados): 338.750949658
+distancia robot-objeto (x,y): (-0.515042241844, 0.857164796942)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.68665504456,3.70359396935,3.70359396935)
+
+
+coordenadas del objeto n en la imagen4(x,y)=(104,73)
+angulo del robot (euler):  -1.94166221818
+angulo del robot (grados): 338.750949658
+distancia robot-objeto (x,y): (-0.515042241844, 0.857164796942)
+distancia al objeto en la nube de puntos (x,y,z) = (-2.71640276909,3.69813728333,3.69813728333)
+
+
+coordenadas del objeto n en la imagen5(x,y)=(237,330)
+angulo del robot (euler):  -1.94468455887
+angulo del robot (grados): 338.577782293
+distancia robot-objeto (x,y): (-0.655031490049, 0.755601579567)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.99766874313,3.82996988297,3.82996988297)
+
+
+coordenadas del objeto n en la imagen6(x,y)=(211,387)
+angulo del robot (euler):  -1.94468455887
+angulo del robot (grados): 338.577782293
+distancia robot-objeto (x,y): (-0.655031490049, 0.755601579567)
+distancia al objeto en la nube de puntos (x,y,z) = (-1.83126246929,3.86049246788,3.86049246788)
+
+

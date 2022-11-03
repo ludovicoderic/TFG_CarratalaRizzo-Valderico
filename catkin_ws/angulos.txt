@@ -1,0 +1,1016 @@
+[0m[ INFO] [1616003020.383694800, 6216.623000000]: Laser is mounted upwards.[0m
+ -maxUrange 3 -maxUrange 3.49 -sigma     0.05 -kernelSize 1 -lstep 0.05 -lobsGain 3 -astep 0.05
+ -srr 0.1 -srt 0.2 -str 0.1 -stt 0.2
+ -linearUpdate 1 -angularUpdate 0.2 -resampleThreshold 0.5
+ -xmin -10 -xmax 10 -ymin -10 -ymax 10 -delta 0.05 -particles 100
+[0m[ INFO] [1616003020.387778700, 6216.623000000]: Initialization complete[0m
+update frame 0
+update ld=0 ad=0
+m_count 0
+Registering First Scan
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+2-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 3
+update ld=0.000110298 ad=0.00174328
+m_count 1
+Average Scan Matching Score=142.182
+neff= 100
+update frame 4
+update ld=0.00011386 ad=0.00180027
+m_count 2
+Average Scan Matching Score=141.376
+neff= 100
+update frame 5
+update ld=0.000352138 ad=0.00557129
+m_count 3
+Average Scan Matching Score=143.099
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.9889 , -0.528005 , 0.0307538]
+2-  n->pose (x,y,z): [-1.99084 , -0.530179 , 0.0304749]
+3-  n->pose (x,y,z): [-1.99117 , -0.53034 , 0.0303437]
+4-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+5-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 6
+update ld=0.0140338 ad=0.219968
+m_count 4
+Average Scan Matching Score=144.201
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.99251 , -0.537112 , -0.18221]
+2-  n->pose (x,y,z): [-1.98784 , -0.529915 , 0.0298683]
+3-  n->pose (x,y,z): [-1.98936 , -0.531703 , 0.0296318]
+4-  n->pose (x,y,z): [-1.9911 , -0.530241 , 0.0301094]
+5-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+6-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 7
+update ld=0.0197372 ad=0.312862
+m_count 5
+Average Scan Matching Score=143.129
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.99826 , -0.562458 , -0.500861]
+2-  n->pose (x,y,z): [-1.99255 , -0.538526 , -0.182684]
+3-  n->pose (x,y,z): [-1.98797 , -0.530192 , 0.0304644]
+4-  n->pose (x,y,z): [-1.98948 , -0.532835 , 0.0290143]
+5-  n->pose (x,y,z): [-1.99095 , -0.531703 , 0.029718]
+6-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+7-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 8
+update ld=0.0165931 ad=0.259863
+m_count 6
+Average Scan Matching Score=144.177
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.0135 , -0.570765 , -0.760996]
+2-  n->pose (x,y,z): [-1.99826 , -0.562458 , -0.500861]
+3-  n->pose (x,y,z): [-1.99255 , -0.538526 , -0.182684]
+4-  n->pose (x,y,z): [-1.98797 , -0.530192 , 0.0304644]
+5-  n->pose (x,y,z): [-1.98948 , -0.532835 , 0.0290143]
+6-  n->pose (x,y,z): [-1.99095 , -0.531703 , 0.029718]
+7-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+8-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 9
+update ld=0.0199025 ad=0.312748
+m_count 7
+Average Scan Matching Score=143.493
+neff= 99.2593
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.02662 , -0.559025 , -1.06983]
+2-  n->pose (x,y,z): [-2.01196 , -0.569172 , -0.761116]
+3-  n->pose (x,y,z): [-1.99748 , -0.562191 , -0.501087]
+4-  n->pose (x,y,z): [-1.99251 , -0.537112 , -0.18221]
+5-  n->pose (x,y,z): [-1.98784 , -0.529915 , 0.0298683]
+6-  n->pose (x,y,z): [-1.98936 , -0.531703 , 0.0296318]
+7-  n->pose (x,y,z): [-1.9911 , -0.530241 , 0.0301094]
+8-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+9-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 10
+update ld=0.0164333 ad=0.252279
+m_count 8
+Average Scan Matching Score=146.078
+neff= 99.2534
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.04712 , -0.570067 , -1.32691]
+2-  n->pose (x,y,z): [-2.02662 , -0.559025 , -1.06983]
+3-  n->pose (x,y,z): [-2.01196 , -0.569172 , -0.761116]
+4-  n->pose (x,y,z): [-1.99748 , -0.562191 , -0.501087]
+5-  n->pose (x,y,z): [-1.99251 , -0.537112 , -0.18221]
+6-  n->pose (x,y,z): [-1.98784 , -0.529915 , 0.0298683]
+7-  n->pose (x,y,z): [-1.98936 , -0.531703 , 0.0296318]
+8-  n->pose (x,y,z): [-1.9911 , -0.530241 , 0.0301094]
+9-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+10-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 11
+update ld=0.0204379 ad=0.321326
+m_count 9
+Average Scan Matching Score=147.206
+neff= 99.2531
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+2-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+3-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+4-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+5-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+6-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+7-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+8-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+9-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+10-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+11-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 12
+update ld=0.00260755 ad=0.040187
+m_count 10
+Average Scan Matching Score=144.278
+neff= 99.253
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+2-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+3-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+4-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+5-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+6-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+7-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+8-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+9-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+10-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+11-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+12-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 13
+update ld=0.000994222 ad=0.0145057
+m_count 11
+Average Scan Matching Score=145.364
+neff= 99.2527
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06662 , -0.586098 , -1.69984]
+2-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+3-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+4-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+5-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+6-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+7-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+8-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+9-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+10-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+11-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+12-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+13-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 14
+update ld=0.000898339 ad=0.012991
+m_count 12
+Average Scan Matching Score=146.332
+neff= 99.2527
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06723 , -0.582058 , -1.71443]
+2-  n->pose (x,y,z): [-2.06662 , -0.586098 , -1.69984]
+3-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+4-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+5-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+6-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+7-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+8-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+9-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+10-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+11-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+12-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+13-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+14-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 15
+update ld=0.000655238 ad=0.00939946
+m_count 13
+Average Scan Matching Score=145.207
+neff= 99.2527
+update frame 16
+update ld=0.000633508 ad=0.00907987
+m_count 14
+Average Scan Matching Score=146.409
+neff= 99.2527
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.07044 , -0.580113 , -1.73206]
+2-  n->pose (x,y,z): [-2.06948 , -0.58335 , -1.71902]
+3-  n->pose (x,y,z): [-2.06723 , -0.582058 , -1.71443]
+4-  n->pose (x,y,z): [-2.06662 , -0.586098 , -1.69984]
+5-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+6-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+7-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+8-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+9-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+10-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+11-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+12-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+13-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+14-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+15-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+16-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 17
+update ld=0.000549033 ad=0.00786036
+m_count 15
+Average Scan Matching Score=145.297
+neff= 99.2527
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06807 , -0.584226 , -1.73611]
+2-  n->pose (x,y,z): [-2.07044 , -0.580113 , -1.73206]
+3-  n->pose (x,y,z): [-2.06948 , -0.58335 , -1.71902]
+4-  n->pose (x,y,z): [-2.06723 , -0.582058 , -1.71443]
+5-  n->pose (x,y,z): [-2.06662 , -0.586098 , -1.69984]
+6-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+7-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+8-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+9-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+10-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+11-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+12-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+13-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+14-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+15-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+16-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+17-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 18
+update ld=0.000559816 ad=0.00801725
+m_count 16
+Average Scan Matching Score=146.392
+neff= 99.2527
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06952 , -0.567257 , -1.74628]
+2-  n->pose (x,y,z): [-2.06807 , -0.584226 , -1.73611]
+3-  n->pose (x,y,z): [-2.07044 , -0.580113 , -1.73206]
+4-  n->pose (x,y,z): [-2.06948 , -0.58335 , -1.71902]
+5-  n->pose (x,y,z): [-2.06723 , -0.582058 , -1.71443]
+6-  n->pose (x,y,z): [-2.06662 , -0.586098 , -1.69984]
+7-  n->pose (x,y,z): [-2.06741 , -0.586248 , -1.68288]
+8-  n->pose (x,y,z): [-2.06407 , -0.583962 , -1.64464]
+9-  n->pose (x,y,z): [-2.04381 , -0.587614 , -1.32292]
+10-  n->pose (x,y,z): [-2.02667 , -0.559295 , -1.07014]
+11-  n->pose (x,y,z): [-2.01286 , -0.568113 , -0.759961]
+12-  n->pose (x,y,z): [-1.99799 , -0.560866 , -0.500447]
+13-  n->pose (x,y,z): [-1.99264 , -0.538186 , -0.182451]
+14-  n->pose (x,y,z): [-1.98774 , -0.529193 , 0.0303097]
+15-  n->pose (x,y,z): [-1.98937 , -0.531492 , 0.0296779]
+16-  n->pose (x,y,z): [-1.9911 , -0.53026 , 0.0298925]
+17-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+18-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 19
+update ld=0.000392187 ad=0.00565254
+m_count 17
+Average Scan Matching Score=148.346
+neff= 99.2526
+update frame 20
+update ld=0.000332459 ad=0.00482564
+m_count 18
+Average Scan Matching Score=145.375
+neff= 99.2526
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.0725 , -0.588613 , -1.7552]
+2-  n->pose (x,y,z): [-2.07044 , -0.587676 , -1.75458]
+3-  n->pose (x,y,z): [-2.07069 , -0.565473 , -1.7477]
+4-  n->pose (x,y,z): [-2.06969 , -0.586523 , -1.73828]
+5-  n->pose (x,y,z): [-2.07039 , -0.585348 , -1.73556]
+6-  n->pose (x,y,z): [-2.0704 , -0.583578 , -1.72129]
+7-  n->pose (x,y,z): [-2.06901 , -0.589268 , -1.71775]
+8-  n->pose (x,y,z): [-2.06743 , -0.588491 , -1.70052]
+9-  n->pose (x,y,z): [-2.06696 , -0.585961 , -1.68481]
+10-  n->pose (x,y,z): [-2.06329 , -0.587582 , -1.64796]
+11-  n->pose (x,y,z): [-2.04501 , -0.582125 , -1.32443]
+12-  n->pose (x,y,z): [-2.02738 , -0.56615 , -1.0746]
+13-  n->pose (x,y,z): [-2.01178 , -0.569331 , -0.760866]
+14-  n->pose (x,y,z): [-1.99922 , -0.562058 , -0.500673]
+15-  n->pose (x,y,z): [-1.99126 , -0.548041 , -0.18602]
+16-  n->pose (x,y,z): [-1.98852 , -0.528637 , 0.0306882]
+17-  n->pose (x,y,z): [-1.98966 , -0.531358 , 0.029807]
+18-  n->pose (x,y,z): [-1.99119 , -0.530187 , 0.029835]
+19-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+20-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+update frame 21
+update ld=0.000307724 ad=0.00454994
+m_count 19
+Average Scan Matching Score=147.343
+neff= 99.2526
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.06938 , -0.563471 , -1.76476]
+2-  n->pose (x,y,z): [-2.0725 , -0.588613 , -1.7552]
+3-  n->pose (x,y,z): [-2.07044 , -0.587676 , -1.75458]
+4-  n->pose (x,y,z): [-2.07069 , -0.565473 , -1.7477]
+5-  n->pose (x,y,z): [-2.06969 , -0.586523 , -1.73828]
+6-  n->pose (x,y,z): [-2.07039 , -0.585348 , -1.73556]
+7-  n->pose (x,y,z): [-2.0704 , -0.583578 , -1.72129]
+8-  n->pose (x,y,z): [-2.06901 , -0.589268 , -1.71775]
+9-  n->pose (x,y,z): [-2.06743 , -0.588491 , -1.70052]
+10-  n->pose (x,y,z): [-2.06696 , -0.585961 , -1.68481]
+11-  n->pose (x,y,z): [-2.06329 , -0.587582 , -1.64796]
+12-  n->pose (x,y,z): [-2.04501 , -0.582125 , -1.32443]
+13-  n->pose (x,y,z): [-2.02738 , -0.56615 , -1.0746]
+14-  n->pose (x,y,z): [-2.01178 , -0.569331 , -0.760866]
+15-  n->pose (x,y,z): [-1.99922 , -0.562058 , -0.500673]
+16-  n->pose (x,y,z): [-1.99126 , -0.548041 , -0.18602]
+17-  n->pose (x,y,z): [-1.98852 , -0.528637 , 0.0306882]
+18-  n->pose (x,y,z): [-1.98966 , -0.531358 , 0.029807]
+19-  n->pose (x,y,z): [-1.99119 , -0.530187 , 0.029835]
+20-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+21-  n->pose (x,y,z): [-1.99108 , -0.530353 , 0.0297562]
+Reading is NULL ------------------------
+
+... logging to /home/ludo/.ros/log/527f0684-873e-11eb-8ba4-00155ddeb6bc/roslaunch-LAPTOP-63323AU9-3775.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch
+[1mstarted roslaunch server http://LAPTOP-63323AU9:45435/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 50.0
+ * /robot_state_publisher/tf_prefix: 
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+ * /turtlebot3_slam_gmapping/angularUpdate: 0.2
+ * /turtlebot3_slam_gmapping/astep: 0.05
+ * /turtlebot3_slam_gmapping/base_frame: base_footprint
+ * /turtlebot3_slam_gmapping/delta: 0.05
+ * /turtlebot3_slam_gmapping/iterations: 5
+ * /turtlebot3_slam_gmapping/kernelSize: 1
+ * /turtlebot3_slam_gmapping/lasamplerange: 0.005
+ * /turtlebot3_slam_gmapping/lasamplestep: 0.005
+ * /turtlebot3_slam_gmapping/linearUpdate: 1.0
+ * /turtlebot3_slam_gmapping/llsamplerange: 0.01
+ * /turtlebot3_slam_gmapping/llsamplestep: 0.01
+ * /turtlebot3_slam_gmapping/lsigma: 0.075
+ * /turtlebot3_slam_gmapping/lskip: 0
+ * /turtlebot3_slam_gmapping/lstep: 0.05
+ * /turtlebot3_slam_gmapping/map_frame: map
+ * /turtlebot3_slam_gmapping/map_update_interval: 2.0
+ * /turtlebot3_slam_gmapping/maxUrange: 3.0
+ * /turtlebot3_slam_gmapping/minimumScore: 50
+ * /turtlebot3_slam_gmapping/odom_frame: odom
+ * /turtlebot3_slam_gmapping/ogain: 3.0
+ * /turtlebot3_slam_gmapping/particles: 100
+ * /turtlebot3_slam_gmapping/resampleThreshold: 0.5
+ * /turtlebot3_slam_gmapping/sigma: 0.05
+ * /turtlebot3_slam_gmapping/srr: 0.1
+ * /turtlebot3_slam_gmapping/srt: 0.2
+ * /turtlebot3_slam_gmapping/str: 0.1
+ * /turtlebot3_slam_gmapping/stt: 0.2
+ * /turtlebot3_slam_gmapping/temporalUpdate: 0.5
+ * /turtlebot3_slam_gmapping/xmax: 10.0
+ * /turtlebot3_slam_gmapping/xmin: -10.0
+ * /turtlebot3_slam_gmapping/ymax: 10.0
+ * /turtlebot3_slam_gmapping/ymin: -10.0
+
+NODES
+  /
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    rviz (rviz/rviz)
+    turtlebot3_slam_gmapping (gmapping/slam_gmapping)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch http://localhost:11311
+[1mprocess[robot_state_publisher-1]: started with pid [3795][0m
+[1mprocess[turtlebot3_slam_gmapping-2]: started with pid [3796][0m
+[1mprocess[rviz-3]: started with pid [3797][0m
+[rviz-3] killing on exit
+[turtlebot3_slam_gmapping-2] killing on exit
+[robot_state_publisher-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[0m[ INFO] [1616003542.930052300, 6421.057000000]: Laser is mounted upwards.[0m
+ -maxUrange 3 -maxUrange 3.49 -sigma     0.05 -kernelSize 1 -lstep 0.05 -lobsGain 3 -astep 0.05
+ -srr 0.1 -srt 0.2 -str 0.1 -stt 0.2
+ -linearUpdate 1 -angularUpdate 0.2 -resampleThreshold 0.5
+ -xmin -10 -xmax 10 -ymin -10 -ymax 10 -delta 0.05 -particles 100
+[0m[ INFO] [1616003542.934301600, 6421.057000000]: Initialization complete[0m
+update frame 0
+update ld=0 ad=0
+m_count 0
+Registering First Scan
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+2-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 3
+update ld=5.72162e-06 ad=7.43484e-05
+m_count 1
+Average Scan Matching Score=142.238
+neff= 100
+update frame 5
+update ld=5.63937e-06 ad=7.32787e-05
+m_count 2
+Average Scan Matching Score=143.403
+neff= 100
+update frame 6
+update ld=9.11894e-06 ad=0.000118464
+m_count 3
+Average Scan Matching Score=141.465
+neff= 100
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-1.99592 , -0.510496 , 0.282485]
+2-  n->pose (x,y,z): [-1.99439 , -0.510508 , 0.28233]
+3-  n->pose (x,y,z): [-1.99438 , -0.510507 , 0.282247]
+4-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+5-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 7
+update ld=0.00126392 ad=0.0195017
+m_count 4
+Average Scan Matching Score=143.353
+neff= 100
+update frame 8
+update ld=0.0124909 ad=0.19714
+m_count 5
+Average Scan Matching Score=143.704
+neff= 99.9934
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.00167 , -0.519114 , 0.0707249]
+2-  n->pose (x,y,z): [-1.99579 , -0.512578 , 0.264714]
+3-  n->pose (x,y,z): [-1.99594 , -0.510527 , 0.282445]
+4-  n->pose (x,y,z): [-1.99437 , -0.510522 , 0.282328]
+5-  n->pose (x,y,z): [-1.99437 , -0.510509 , 0.282249]
+6-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+7-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 9
+update ld=0.0164383 ad=0.257409
+m_count 6
+Average Scan Matching Score=142.21
+neff= 99.9934
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.00057 , -0.535072 , -0.192895]
+2-  n->pose (x,y,z): [-2.00321 , -0.532231 , 0.0689928]
+3-  n->pose (x,y,z): [-1.99626 , -0.514476 , 0.263362]
+4-  n->pose (x,y,z): [-1.99592 , -0.510516 , 0.282451]
+5-  n->pose (x,y,z): [-1.99437 , -0.510517 , 0.282323]
+6-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282247]
+7-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+8-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 10
+update ld=0.0157258 ad=0.253595
+m_count 7
+Average Scan Matching Score=145.273
+neff= 99.9934
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+2-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+3-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+4-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+5-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+6-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+7-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+8-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+9-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 11
+update ld=0.0162079 ad=0.254861
+m_count 8
+Average Scan Matching Score=143.135
+neff= 99.9934
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.01541 , -0.569057 , -0.701543]
+2-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+3-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+4-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+5-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+6-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+7-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+8-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+9-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+10-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 12
+update ld=0.0184212 ad=0.288835
+m_count 9
+Average Scan Matching Score=141.947
+neff= 99.9883
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.03055 , -0.533096 , -0.996003]
+2-  n->pose (x,y,z): [-2.01541 , -0.569057 , -0.701543]
+3-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+4-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+5-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+6-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+7-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+8-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+9-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+10-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+11-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 13
+update ld=0.0127894 ad=0.202402
+m_count 10
+Average Scan Matching Score=144.128
+neff= 99.9884
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.04235 , -0.575614 , -1.19262]
+2-  n->pose (x,y,z): [-2.03055 , -0.533096 , -0.996003]
+3-  n->pose (x,y,z): [-2.01541 , -0.569057 , -0.701543]
+4-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+5-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+6-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+7-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+8-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+9-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+10-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+11-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+12-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 14
+update ld=0.0154636 ad=0.24216
+m_count 11
+Average Scan Matching Score=146.338
+neff= 99.9884
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.05923 , -0.584262 , -1.43474]
+2-  n->pose (x,y,z): [-2.04235 , -0.575614 , -1.19262]
+3-  n->pose (x,y,z): [-2.03055 , -0.533096 , -0.996003]
+4-  n->pose (x,y,z): [-2.01541 , -0.569057 , -0.701543]
+5-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+6-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+7-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+8-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+9-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+10-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+11-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+12-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+13-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 15
+update ld=0.0211907 ad=0.33312
+m_count 12
+Average Scan Matching Score=147.264
+neff= 99.9885
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.08099 , -0.584126 , -1.76695]
+2-  n->pose (x,y,z): [-2.05923 , -0.584262 , -1.43474]
+3-  n->pose (x,y,z): [-2.04235 , -0.575614 , -1.19262]
+4-  n->pose (x,y,z): [-2.03055 , -0.533096 , -0.996003]
+5-  n->pose (x,y,z): [-2.01541 , -0.569057 , -0.701543]
+6-  n->pose (x,y,z): [-2.00112 , -0.558548 , -0.448186]
+7-  n->pose (x,y,z): [-2.00089 , -0.536 , -0.193604]
+8-  n->pose (x,y,z): [-2.00448 , -0.533307 , 0.0681208]
+9-  n->pose (x,y,z): [-1.99592 , -0.514446 , 0.263234]
+10-  n->pose (x,y,z): [-1.99595 , -0.510512 , 0.282419]
+11-  n->pose (x,y,z): [-1.99438 , -0.510518 , 0.2823]
+12-  n->pose (x,y,z): [-1.99438 , -0.510502 , 0.282239]
+13-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+14-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 16
+update ld=0.0158686 ad=0.252365
+m_count 13
+Average Scan Matching Score=134.123
+neff= 99.96
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.08963 , -0.509298 , -2.02703]
+2-  n->pose (x,y,z): [-2.08054 , -0.583537 , -1.76655]
+3-  n->pose (x,y,z): [-2.05757 , -0.583689 , -1.43329]
+4-  n->pose (x,y,z): [-2.04351 , -0.571539 , -1.18946]
+5-  n->pose (x,y,z): [-2.02991 , -0.526284 , -0.992226]
+6-  n->pose (x,y,z): [-2.01581 , -0.567986 , -0.701685]
+7-  n->pose (x,y,z): [-2.00015 , -0.55804 , -0.447974]
+8-  n->pose (x,y,z): [-1.99993 , -0.535107 , -0.192803]
+9-  n->pose (x,y,z): [-2.00399 , -0.533686 , 0.0685744]
+10-  n->pose (x,y,z): [-1.99503 , -0.51317 , 0.264512]
+11-  n->pose (x,y,z): [-1.99593 , -0.510504 , 0.282411]
+12-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282294]
+13-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282225]
+14-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+15-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 17
+update ld=0.0165275 ad=0.259138
+m_count 14
+Average Scan Matching Score=144.264
+neff= 99.9603
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.10553 , -0.496582 , -2.28206]
+2-  n->pose (x,y,z): [-2.08963 , -0.509298 , -2.02703]
+3-  n->pose (x,y,z): [-2.08054 , -0.583537 , -1.76655]
+4-  n->pose (x,y,z): [-2.05757 , -0.583689 , -1.43329]
+5-  n->pose (x,y,z): [-2.04351 , -0.571539 , -1.18946]
+6-  n->pose (x,y,z): [-2.02991 , -0.526284 , -0.992226]
+7-  n->pose (x,y,z): [-2.01581 , -0.567986 , -0.701685]
+8-  n->pose (x,y,z): [-2.00015 , -0.55804 , -0.447974]
+9-  n->pose (x,y,z): [-1.99993 , -0.535107 , -0.192803]
+10-  n->pose (x,y,z): [-2.00399 , -0.533686 , 0.0685744]
+11-  n->pose (x,y,z): [-1.99503 , -0.51317 , 0.264512]
+12-  n->pose (x,y,z): [-1.99593 , -0.510504 , 0.282411]
+13-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282294]
+14-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282225]
+15-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+16-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 18
+update ld=0.0177648 ad=0.276084
+m_count 15
+Average Scan Matching Score=145.17
+neff= 99.9608
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.11293 , -0.498868 , -2.56132]
+2-  n->pose (x,y,z): [-2.10553 , -0.496582 , -2.28206]
+3-  n->pose (x,y,z): [-2.08963 , -0.509298 , -2.02703]
+4-  n->pose (x,y,z): [-2.08054 , -0.583537 , -1.76655]
+5-  n->pose (x,y,z): [-2.05757 , -0.583689 , -1.43329]
+6-  n->pose (x,y,z): [-2.04351 , -0.571539 , -1.18946]
+7-  n->pose (x,y,z): [-2.02991 , -0.526284 , -0.992226]
+8-  n->pose (x,y,z): [-2.01581 , -0.567986 , -0.701685]
+9-  n->pose (x,y,z): [-2.00015 , -0.55804 , -0.447974]
+10-  n->pose (x,y,z): [-1.99993 , -0.535107 , -0.192803]
+11-  n->pose (x,y,z): [-2.00399 , -0.533686 , 0.0685744]
+12-  n->pose (x,y,z): [-1.99503 , -0.51317 , 0.264512]
+13-  n->pose (x,y,z): [-1.99593 , -0.510504 , 0.282411]
+14-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282294]
+15-  n->pose (x,y,z): [-1.99438 , -0.510513 , 0.282225]
+16-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+17-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 19
+update ld=0.0203471 ad=0.319151
+m_count 16
+Average Scan Matching Score=145.328
+neff= 99.9611
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.12049 , -0.531369 , -2.8737]
+2-  n->pose (x,y,z): [-2.11427 , -0.544538 , -2.55128]
+3-  n->pose (x,y,z): [-2.10649 , -0.498103 , -2.28353]
+4-  n->pose (x,y,z): [-2.08954 , -0.51119 , -2.02909]
+5-  n->pose (x,y,z): [-2.07987 , -0.584374 , -1.7675]
+6-  n->pose (x,y,z): [-2.0584 , -0.582294 , -1.43485]
+7-  n->pose (x,y,z): [-2.04585 , -0.574326 , -1.19151]
+8-  n->pose (x,y,z): [-2.02846 , -0.53447 , -0.997074]
+9-  n->pose (x,y,z): [-2.0136 , -0.565576 , -0.699697]
+10-  n->pose (x,y,z): [-2.00181 , -0.546545 , -0.443203]
+11-  n->pose (x,y,z): [-1.99996 , -0.51695 , -0.189363]
+12-  n->pose (x,y,z): [-2.00014 , -0.514344 , 0.0731061]
+13-  n->pose (x,y,z): [-1.9963 , -0.513404 , 0.263802]
+14-  n->pose (x,y,z): [-1.99593 , -0.510535 , 0.282447]
+15-  n->pose (x,y,z): [-1.99437 , -0.510525 , 0.282321]
+16-  n->pose (x,y,z): [-1.99437 , -0.510505 , 0.28224]
+17-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+18-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 20
+update ld=0.0174017 ad=0.273094
+m_count 17
+Average Scan Matching Score=145.394
+neff= 99.9614
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.12113 , -0.514608 , -3.15019]
+2-  n->pose (x,y,z): [-2.11976 , -0.535775 , -2.8763]
+3-  n->pose (x,y,z): [-2.11483 , -0.546037 , -2.55892]
+4-  n->pose (x,y,z): [-2.10624 , -0.498548 , -2.28157]
+5-  n->pose (x,y,z): [-2.08813 , -0.510915 , -2.02898]
+6-  n->pose (x,y,z): [-2.08089 , -0.584084 , -1.76744]
+7-  n->pose (x,y,z): [-2.05725 , -0.585685 , -1.43403]
+8-  n->pose (x,y,z): [-2.04231 , -0.572594 , -1.19099]
+9-  n->pose (x,y,z): [-2.0296 , -0.523625 , -0.989576]
+10-  n->pose (x,y,z): [-2.01581 , -0.56937 , -0.702108]
+11-  n->pose (x,y,z): [-2.00091 , -0.557713 , -0.448038]
+12-  n->pose (x,y,z): [-2.00042 , -0.536349 , -0.193723]
+13-  n->pose (x,y,z): [-2.00444 , -0.533017 , 0.0688232]
+14-  n->pose (x,y,z): [-1.99634 , -0.512288 , 0.264298]
+15-  n->pose (x,y,z): [-1.99595 , -0.510501 , 0.282446]
+16-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282329]
+17-  n->pose (x,y,z): [-1.99437 , -0.510508 , 0.282245]
+18-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+19-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 21
+update ld=0.0172724 ad=0.271954
+m_count 18
+Average Scan Matching Score=142.395
+neff= 99.9615
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.11804 , -0.494033 , -3.42117]
+2-  n->pose (x,y,z): [-2.12113 , -0.514608 , -3.15019]
+3-  n->pose (x,y,z): [-2.11976 , -0.535775 , -2.8763]
+4-  n->pose (x,y,z): [-2.11483 , -0.546037 , -2.55892]
+5-  n->pose (x,y,z): [-2.10624 , -0.498548 , -2.28157]
+6-  n->pose (x,y,z): [-2.08813 , -0.510915 , -2.02898]
+7-  n->pose (x,y,z): [-2.08089 , -0.584084 , -1.76744]
+8-  n->pose (x,y,z): [-2.05725 , -0.585685 , -1.43403]
+9-  n->pose (x,y,z): [-2.04231 , -0.572594 , -1.19099]
+10-  n->pose (x,y,z): [-2.0296 , -0.523625 , -0.989576]
+11-  n->pose (x,y,z): [-2.01581 , -0.56937 , -0.702108]
+12-  n->pose (x,y,z): [-2.00091 , -0.557713 , -0.448038]
+13-  n->pose (x,y,z): [-2.00042 , -0.536349 , -0.193723]
+14-  n->pose (x,y,z): [-2.00444 , -0.533017 , 0.0688232]
+15-  n->pose (x,y,z): [-1.99634 , -0.512288 , 0.264298]
+16-  n->pose (x,y,z): [-1.99595 , -0.510501 , 0.282446]
+17-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282329]
+18-  n->pose (x,y,z): [-1.99437 , -0.510508 , 0.282245]
+19-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+20-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 22
+update ld=0.0192866 ad=0.303296
+m_count 19
+Average Scan Matching Score=142.32
+neff= 99.9616
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.10975 , -0.479193 , -3.72168]
+2-  n->pose (x,y,z): [-2.11804 , -0.494033 , -3.42117]
+3-  n->pose (x,y,z): [-2.12113 , -0.514608 , -3.15019]
+4-  n->pose (x,y,z): [-2.11976 , -0.535775 , -2.8763]
+5-  n->pose (x,y,z): [-2.11483 , -0.546037 , -2.55892]
+6-  n->pose (x,y,z): [-2.10624 , -0.498548 , -2.28157]
+7-  n->pose (x,y,z): [-2.08813 , -0.510915 , -2.02898]
+8-  n->pose (x,y,z): [-2.08089 , -0.584084 , -1.76744]
+9-  n->pose (x,y,z): [-2.05725 , -0.585685 , -1.43403]
+10-  n->pose (x,y,z): [-2.04231 , -0.572594 , -1.19099]
+11-  n->pose (x,y,z): [-2.0296 , -0.523625 , -0.989576]
+12-  n->pose (x,y,z): [-2.01581 , -0.56937 , -0.702108]
+13-  n->pose (x,y,z): [-2.00091 , -0.557713 , -0.448038]
+14-  n->pose (x,y,z): [-2.00042 , -0.536349 , -0.193723]
+15-  n->pose (x,y,z): [-2.00444 , -0.533017 , 0.0688232]
+16-  n->pose (x,y,z): [-1.99634 , -0.512288 , 0.264298]
+17-  n->pose (x,y,z): [-1.99595 , -0.510501 , 0.282446]
+18-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282329]
+19-  n->pose (x,y,z): [-1.99437 , -0.510508 , 0.282245]
+20-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+21-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 23
+update ld=0.0153442 ad=0.237937
+m_count 20
+Average Scan Matching Score=140.301
+neff= 99.9618
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.09602 , -0.470143 , -3.96499]
+2-  n->pose (x,y,z): [-2.10975 , -0.479193 , -3.72168]
+3-  n->pose (x,y,z): [-2.11804 , -0.494033 , -3.42117]
+4-  n->pose (x,y,z): [-2.12113 , -0.514608 , -3.15019]
+5-  n->pose (x,y,z): [-2.11976 , -0.535775 , -2.8763]
+6-  n->pose (x,y,z): [-2.11483 , -0.546037 , -2.55892]
+7-  n->pose (x,y,z): [-2.10624 , -0.498548 , -2.28157]
+8-  n->pose (x,y,z): [-2.08813 , -0.510915 , -2.02898]
+9-  n->pose (x,y,z): [-2.08089 , -0.584084 , -1.76744]
+10-  n->pose (x,y,z): [-2.05725 , -0.585685 , -1.43403]
+11-  n->pose (x,y,z): [-2.04231 , -0.572594 , -1.19099]
+12-  n->pose (x,y,z): [-2.0296 , -0.523625 , -0.989576]
+13-  n->pose (x,y,z): [-2.01581 , -0.56937 , -0.702108]
+14-  n->pose (x,y,z): [-2.00091 , -0.557713 , -0.448038]
+15-  n->pose (x,y,z): [-2.00042 , -0.536349 , -0.193723]
+16-  n->pose (x,y,z): [-2.00444 , -0.533017 , 0.0688232]
+17-  n->pose (x,y,z): [-1.99634 , -0.512288 , 0.264298]
+18-  n->pose (x,y,z): [-1.99595 , -0.510501 , 0.282446]
+19-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282329]
+20-  n->pose (x,y,z): [-1.99437 , -0.510508 , 0.282245]
+21-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+22-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 24
+update ld=0.0142056 ad=0.222558
+m_count 21
+Average Scan Matching Score=139.28
+neff= 99.9618
+
+
+Update map
+Trajectory tree: ------------------------
+1-  n->pose (x,y,z): [-2.08597 , -0.449763 , -4.18323]
+2-  n->pose (x,y,z): [-2.09602 , -0.470143 , -3.96499]
+3-  n->pose (x,y,z): [-2.10975 , -0.479193 , -3.72168]
+4-  n->pose (x,y,z): [-2.11804 , -0.494033 , -3.42117]
+5-  n->pose (x,y,z): [-2.12113 , -0.514608 , -3.15019]
+6-  n->pose (x,y,z): [-2.11976 , -0.535775 , -2.8763]
+7-  n->pose (x,y,z): [-2.11483 , -0.546037 , -2.55892]
+8-  n->pose (x,y,z): [-2.10624 , -0.498548 , -2.28157]
+9-  n->pose (x,y,z): [-2.08813 , -0.510915 , -2.02898]
+10-  n->pose (x,y,z): [-2.08089 , -0.584084 , -1.76744]
+11-  n->pose (x,y,z): [-2.05725 , -0.585685 , -1.43403]
+12-  n->pose (x,y,z): [-2.04231 , -0.572594 , -1.19099]
+13-  n->pose (x,y,z): [-2.0296 , -0.523625 , -0.989576]
+14-  n->pose (x,y,z): [-2.01581 , -0.56937 , -0.702108]
+15-  n->pose (x,y,z): [-2.00091 , -0.557713 , -0.448038]
+16-  n->pose (x,y,z): [-2.00042 , -0.536349 , -0.193723]
+17-  n->pose (x,y,z): [-2.00444 , -0.533017 , 0.0688232]
+18-  n->pose (x,y,z): [-1.99634 , -0.512288 , 0.264298]
+19-  n->pose (x,y,z): [-1.99595 , -0.510501 , 0.282446]
+20-  n->pose (x,y,z): [-1.99438 , -0.510505 , 0.282329]
+21-  n->pose (x,y,z): [-1.99437 , -0.510508 , 0.282245]
+22-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+23-  n->pose (x,y,z): [-1.99281 , -0.510503 , 0.282172]
+Reading is NULL ------------------------
+
+update frame 26
+update ld=0.0038054 ad=0.0595893
+m_count 22
+... logging to /home/ludo/.ros/log/527f0684-873e-11eb-8ba4-00155ddeb6bc/roslaunch-LAPTOP-63323AU9-4448.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch
+[1mstarted roslaunch server http://LAPTOP-63323AU9:37429/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /robot_description: <?xml version="1....
+ * /robot_state_publisher/publish_frequency: 50.0
+ * /robot_state_publisher/tf_prefix: 
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+ * /turtlebot3_slam_gmapping/angularUpdate: 0.2
+ * /turtlebot3_slam_gmapping/astep: 0.05
+ * /turtlebot3_slam_gmapping/base_frame: base_footprint
+ * /turtlebot3_slam_gmapping/delta: 0.05
+ * /turtlebot3_slam_gmapping/iterations: 5
+ * /turtlebot3_slam_gmapping/kernelSize: 1
+ * /turtlebot3_slam_gmapping/lasamplerange: 0.005
+ * /turtlebot3_slam_gmapping/lasamplestep: 0.005
+ * /turtlebot3_slam_gmapping/linearUpdate: 1.0
+ * /turtlebot3_slam_gmapping/llsamplerange: 0.01
+ * /turtlebot3_slam_gmapping/llsamplestep: 0.01
+ * /turtlebot3_slam_gmapping/lsigma: 0.075
+ * /turtlebot3_slam_gmapping/lskip: 0
+ * /turtlebot3_slam_gmapping/lstep: 0.05
+ * /turtlebot3_slam_gmapping/map_frame: map
+ * /turtlebot3_slam_gmapping/map_update_interval: 2.0
+ * /turtlebot3_slam_gmapping/maxUrange: 3.0
+ * /turtlebot3_slam_gmapping/minimumScore: 50
+ * /turtlebot3_slam_gmapping/odom_frame: odom
+ * /turtlebot3_slam_gmapping/ogain: 3.0
+ * /turtlebot3_slam_gmapping/particles: 100
+ * /turtlebot3_slam_gmapping/resampleThreshold: 0.5
+ * /turtlebot3_slam_gmapping/sigma: 0.05
+ * /turtlebot3_slam_gmapping/srr: 0.1
+ * /turtlebot3_slam_gmapping/srt: 0.2
+ * /turtlebot3_slam_gmapping/str: 0.1
+ * /turtlebot3_slam_gmapping/stt: 0.2
+ * /turtlebot3_slam_gmapping/temporalUpdate: 0.5
+ * /turtlebot3_slam_gmapping/xmax: 10.0
+ * /turtlebot3_slam_gmapping/xmin: -10.0
+ * /turtlebot3_slam_gmapping/ymax: 10.0
+ * /turtlebot3_slam_gmapping/ymin: -10.0
+
+NODES
+  /
+    robot_state_publisher (robot_state_publisher/robot_state_publisher)
+    rviz (rviz/rviz)
+    turtlebot3_slam_gmapping (gmapping/slam_gmapping)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/ludo/catkin_ws/src/turtlebot3/turtlebot3_slam/launch/turtlebot3_slam.launch http://localhost:11311
+[1mprocess[robot_state_publisher-1]: started with pid [4470][0m
+[1mprocess[turtlebot3_slam_gmapping-2]: started with pid [4471][0m
+[1mprocess[rviz-3]: started with pid [4472][0m
+[rviz-3] killing on exit
+[turtlebot3_slam_gmapping-2] killing on exit
+[robot_state_publisher-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

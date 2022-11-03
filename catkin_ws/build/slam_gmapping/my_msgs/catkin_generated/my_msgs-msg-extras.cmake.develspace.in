@@ -1,0 +1,2 @@
+set(my_msgs_MESSAGE_FILES "/home/ludo/catkin_ws/src/slam_gmapping/my_msgs/msg/TreeInfo.msg;/home/ludo/catkin_ws/src/slam_gmapping/my_msgs/msg/TreeVariables.msg")
+set(my_msgs_SERVICE_FILES "")
