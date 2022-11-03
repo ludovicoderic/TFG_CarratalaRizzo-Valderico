@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ludo/catkin_ws/src/darknet_ros/darknet_ros/devel/setup.sh
